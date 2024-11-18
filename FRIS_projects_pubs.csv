@@ -1,0 +1,704 @@
+no,pro_id,disciplines,funder,title
+1,94ddc20f-5e93-4140-bb03-a9c27447d4e2,"['0602', '0501']",Research Foundation Flanders,The Transfer Effects of the Study of Latin Greek on Language Competence and Cognition a Longitudinal Study in Flemish Secondary Education
+2,d833bf9c-e2b4-4843-a897-1eaa0baeffa6,"['0106', '0306', '0302', '0301']",Research Foundation Flanders,Viral interference with RNA sensing and processing
+3,79de26a7-e00c-40a8-ac03-94a60f7b8110,['0603'],European Commission,Novel Echoes Ancient Novelistic Receptions and Concepts of Fiction in Late Antique and MEdieval Secular Narrative from East to West
+4,9cc34d7b-2607-4aa5-89ea-4e33cf69f92d,['0299'],Research Foundation Flanders,Chemical Information Mining in a Complex World
+5,1c7f82a2-5610-4813-9bdb-766bb98b8482,['0301'],Research Foundation Flanders,FEBRIS Flemish joint Effort for Biomarker pRofiling in Inflammatory Systemic diseases
+6,e94c1597-1a58-4165-8fdb-d9a7f62a03ae,"['0306', '0206', '0301']",Research Foundation Flanders,Modeling how sensorineural hearing loss affects auditory processing and physiological markers of hearing
+7,4c845bc0-4c79-4105-a2c9-09fbe5275fbd,"['0107', '0401', '0104']",Research Foundation Flanders,Bio based factory Sustainable chemistry from wood
+8,616a043a-1c18-4b5f-83a1-c73b35b74fb8,"['0103', '0101']",Research Foundation Flanders,The H boson gateway to physics beyond the Standard Model
+9,87709c06-002a-4b0b-99b6-eb8dd1be9606,"['0306', '0501', '0301', '0302']",Research Foundation Flanders,The journey of a memory dynamics of learning and consolidation in maturation and ageing
+10,2d5bf816-da07-4848-ae30-a7eb0a302eee,['0101'],Research Foundation Flanders,Analysis and Partial Differential Equations APDE 
+11,0129b9fd-d475-4f36-a18c-29092cd8fce9,"['0106', '0401']",Research Foundation Flanders,Adapting plant genetic diversity to climate change along a continental latitudinal gradients
+12,e3f38c14-9d91-42d6-add7-ce5acd7ca63b,['0302'],Research Foundation Flanders,HEROI C Hybrid machinE leaRning for Improved Infection management in Critically ill patients
+13,fd58f7e7-dd57-4c16-81ca-c682e78cd4f6,['0401'],Research Foundation Flanders,ENTOBIOTA Turning Black into Golden Soldier Fly Larvae Hermetia illucens added value creation by exploring its microbiota and metabolism
+14,e3bde44f-a7fe-46be-a309-ab58aa337ef8,"['0306', '0301']",Research Foundation Flanders,The potential of innovative genome scale metabolic models in discovering novel targets to treat pathological angiogenesis
+15,0f185947-5e76-4554-b818-e470e7df2a21,"['0306', '0202', '0206', '0102', '0208']",Flemish Government,SRP Onderzoekszwaartepunt Learning based Signal and Data Processing Systems LSDS 
+16,a8a2587d-aefe-4730-ba22-ce9af3168d11,['0102'],Research Foundation Flanders,SNIPPET Secure aNd prIvacy friendly Peer to Peer Electricity Trading
+17,0dcc328c-32c9-4693-b9ec-e0fd8942b230,"['0203', '0202', '0207', '0106', '0204']",Research Foundation Flanders,Digging deep into the arsenal of calcium dependent antibiotics through highly targeted genotype based selection
+18,a4eabea4-37a8-4ae5-82d8-b1734cee17f8,['0302'],not specific,Discovering the role of titin TTN in anthracycline induced cardiac dysfunction in breast cancer 
+19,5c083fa7-b175-44f3-89d3-da7228c5d45f,['0106'],Research Foundation Flanders,Study of the molecular pathways through which linear de ubiquitination governs skin inflammation and aberrant epidermal stem cell activation
+20,6e5ae6db-6a70-4d55-8382-c01bb7121d6b,"['0103', '0104']",Flanders Innovation & Entrepreneurship,SYNergetic design of CATalytic materials for integrated photo and electrochemical CO conversion processes
+21,7286a7bf-925d-4980-a16d-4560c5cbb2b9,"['0601', '0604']",Research Foundation Flanders,FWO sabbatical Prof K Vanhoutte 
+22,561401a4-ef37-4f90-bb55-5596ec79967f,['0208'],not specific,Fast algorithms for generalized eigenvalue problems
+23,431787f4-4935-4158-a121-abdb92fdcbae,['0106'],Research Foundation Flanders,Tau oligomers as targets for novel Alzheimerdisease diagnostics and therapeutics
+24,b2b4a781-b739-4e05-b7d9-fb06ada76b17,['0106'],not specific,Food borne amyloids analysis engineering and design
+25,6712b81f-a115-4f38-8d8e-0e6208ef946c,"['0301', '0306', '0501']",Research Foundation Flanders,Graph based model of information diffusion in the human brain for studying event related potentials
+26,8c1473f3-426b-4ae6-9104-35e3173eec54,"['0504', '0501']",Research Foundation Flanders,Blended CBT sleep intervention to improve sleep ADHD symptoms and related problems in adolescents with ADHD
+27,a97cb233-3e8c-4117-b6f0-60666aa3a7b8,['0306'],not specific,Histopathological heterogeneity of primary and metastatic breast cancer
+28,7398e578-7032-4853-91c9-d468933b8775,"['0206', '0207', '0306']",Research Foundation Flanders,Development of a predictive model for endotype based patient selection for obstructive sleep apnea treatment 
+29,9f40ccf2-dece-4ff4-b933-f4eeea493c39,['0505'],Federal Government,From the alley to the web The rise of illicit drug trade on cryptomarkets and the involvement of Belgian buyers and vendors CRYPTODRUG
+30,efbcc470-3a24-4f4b-b03b-477779900653,['0106'],Flemish Government,The impact of nutrient pollution and mycorrhizal type on soil biodiversity and functionality
+31,d0bcb000-e7f3-43c3-bda5-57462cba8c36,['0202'],Research Foundation Flanders,Ultrathin porous electrode coatings for improved battery performance POROBAT 
+32,bf45b27e-ecf3-4aa0-8629-7d6decc03ec3,"['0103', '0202', '0205']",Research Foundation Flanders,Thin film transistor chemical sensors based on metal organic frameworks
+33,dc7b7904-31f3-4e4a-8738-cac1e3236c0b,['0301'],Research Foundation Flanders,CAPACITY Flanders Project to Develop Capacity in Palliative Care Across Society
+34,ff0f8e51-6040-48ac-859e-c6afd4e208a7,"['0102', '0101', '0203']",Research Foundation Flanders,Computational Modelling of Thermo Elastohydrodynamic Lubricated Contacts
+35,bd85fe73-0d84-498f-b731-4416bac58e3f,['0106'],Research Foundation Flanders,Characterization of extracellular RNA signals and their role in antiviral immunity in insects
+36,9573c3f4-61b0-457e-b8ce-e08a5410240a,['0104'],Research Foundation Flanders,Next generation sulfur VI fluoride probes for activity based protein profiling 
+37,16965169-2065-4f5b-a3cc-4c6b8b394176,"['0301', '0206']",Research Foundation Flanders,Fluid structure growth modeling of the ageing aorta in humans biomechanical and hemodynamic consequences of elastin degradation
+38,db57f672-230f-45df-8a8c-b07eefe53572,"['0401', '0106']",Research Foundation Flanders,Effects of tropical rainforest disturbance on gene flow genomic diversity and introgression in understory trees the case of Coffea canephora in the Congo basin 
+39,f43ce365-064c-4a2e-afee-5897ce17a56a,['0301'],Research Foundation Flanders,Molecular targets and mechanisms involved in peroxisomal hydrogen peroxide signaling
+40,2a7931a5-65c6-45f6-9262-bcb8c320f0ae,['0302'],Research Foundation Flanders,Genomics and transcriptomics of auto immune and autoinflammatory conditions
+41,5415ab05-b373-4969-9246-4bd812060d76,"['0202', '0301']",Research Foundation Flanders,Age and sex appropriate D shape analysis and geometric deep learning for children undergoing craniofacial diagnostics and surgery
+42,45bbe303-bf75-4865-a4a1-26b3d7a9da90,"['0301', '0302', '0106']",Research Foundation Flanders,Targeting necrotic cell debris degradation as a therapeutic strategy for injury
+43,47bb85ec-aba5-44f1-a2b0-8f8f1de78f96,"['0302', '0102']",Research Foundation Flanders,PRIMORDIAL An artificial intelligence AI driven prediction model to detect risk factors for medication related osteonecrosis of the jaws 
+44,91350e98-4ad7-4d27-8f3a-932a2bf89cab,"['0501', '0302']",Research Foundation Flanders,A Multi layered Perspective on PSychological individuality in adolescents with chronic illness MaPPS Project A long term longitudinal inquiry into young adulthood
+45,6bc83e58-ab96-471d-95ad-7f50102fba08,"['0106', '0301']",Flemish Government,Predicting metastasis formation based on cancer cells with a distinct energy metabolism
+46,2b86a2a3-a8de-4ae3-95d9-d40786bbd693,"['0205', '0203']",Research Foundation Flanders,Multi Material Additive Manufacturing for Electrical Machines with increased performance AM EM 
+47,0137f30e-cb0d-428c-9479-c520a35ba90c,['0301'],Research Foundation Flanders,Investigating the role of complement in the phagocytosis of necrotic debris in vivo
+48,2cff7874-1448-4f09-bb19-28af0e865f5e,"['0107', '0205']",Flemish Government,Next generation lignocellulose biorefinery concepts and implementation Next BIOREF 
+49,a9747510-4d48-43ae-b53c-d22508c5f999,"['0207', '0106', '0603']",Flemish Government,Unlocking powerful non model organisms in microbial synthetic biology POSSIBL 
+50,b1abb128-4bba-497e-ad13-a8bbf0fb3c45,"['0299', '0203']",Flemish Government,Towards continuous combustion of gasified municipal solid waste
+51,9008297b-c0ab-4dc0-ae75-938a8f0484f7,"['0102', '0602']",Universities,Towards a mechanistic understanding of the emergence evolution acquisition and processing of human like languages in populations of autonomous agents
+52,16a281a2-6f0e-4c68-89d2-bc960ec300a9,['0501'],Flemish Government,Strengthening Mental health And Resilience Through Schools SMARTS 
+53,7f16b69f-d33f-4acf-9dc2-0e40cb853a5e,['0101'],Research Foundation Flanders,Factorization theorems for smooth vectors of Lie group representations
+54,010b3336-8d38-432f-a336-fbc4075bae37,"['0101', '0105', '0107', '0299', '0103']",Flemish Government,Copper clusters as model catalysts for carbon dioxide hydrogenation to methanol
+55,5516bade-5a89-47b8-b1e9-87b268564fc8,"['0103', '0201', '0202', '0205']",Research Foundation Flanders,Essential Technologies for the Einstein Telescope 
+56,8789f5a8-1c7a-4a30-a2eb-167265f0d708,['0602'],not specific,Recommendation letters of Libanius Comparison with the wider ancient epistolary practice and means of promoting interests of his multiple petitioners
+57,e82788b2-801d-4be6-8d8b-425c12f9eff8,['0104'],not specific,Ultra trace analysis of off flavors in water
+58,d52b539f-ff2c-4c0c-b24c-2c51472ef610,['0503'],European Commission,H IMPACT A dedicated postdoctoral research and training programme fostering impact development and entrepreneurship 
+59,09db321a-849e-4007-bd48-d5edf5f25074,['0601'],not specific,Scientific academic service concerning the theme of Jesuit heritage
+60,e3c7fab9-75a4-490a-b3d6-f30807c8dcc9,['0604'],Research Foundation Flanders,BELGIAN MOMO HERITAGE ON THE RADAR Re reading modernist housing estates an inquiry into the value of threatened heritage sites and the possibilities of adaptive reuse as a method for re evaluation
+61,0a017549-bdee-4493-937e-73601e8f75c8,"['0104', '0202']",Research Foundation Flanders,Porphyrinoid materials for near infrared organic photodetectors
+62,458ffe49-620f-44eb-9462-448753c45355,['0104'],Flemish Government,One step catalytic conversion of ethanol into butadiene
+63,1eedda22-b7bf-4f2f-8fb2-62250064c1ca,['0202'],European Commission,Unique multiarray immunosensor for the accurate quantification of the fertility window of women in saliva Umay women 
+64,c22bde50-3b67-45e4-8b24-aba3dac758d2,['0103'],Research Foundation Flanders,Hyperspectral imaging of the endo and exohedral interactions of molecules with single wall carbon nanotubes 
+65,170e7454-5f3c-4a35-842f-72fbd6a0e3a6,['0202'],not specific,High frequency Integrated Power Converters with D Integration Technology for High performance Computing Systems
+66,7f0b88ef-bd7d-4bd5-aeca-c1261c4ed452,"['0104', '0202']",Research Foundation Flanders,Reviving electrochemical detection for HPLC analysis of illicit drugs metabolites and isomers REVAMP 
+67,91bddd9f-0b39-4b2d-98a6-3cd3e081762b,['0503'],Flemish Government,Cognitive impact of preventive tablet based games in pre readers at risk for dyslexia
+68,943e0586-8152-4c84-b269-f21a8bcfbfdb,['0508'],not specific,SoMe Dem Social media for democracy understanding the causal mechanisms of digital citizenship
+69,81a527e7-cb59-4c85-9ea1-ed7e38dcceb2,['0207'],not specific,Fungateria Enlisting synthetic fungal bacterial consortia to produce multi cellular mycelium based ELMs with computational capability
+70,a3361868-89b2-490e-bbc2-24418e2cf0ed,"['0302', '0301', '0106']",not specific,Exploiting viral regulators for synthetic biology toolbox development for Sulfolobales
+71,9a5b8a9b-63bc-470c-9d11-3103125737f4,['0503'],not specific,Erasmus GreenDeal NET Governing the EUTransition towards Climate Neutrality and Sustainability
+72,2e4822a1-82de-45d5-b5df-8f20a962c545,['0103'],not specific,Exploring the stochastic gravitational wave background of cosmological origin from models to signatures
+73,bb5245ca-e296-4204-a83c-8828869ae645,['0103'],not specific,Probing the Charm Higgs Yukawa at the LHC 
+74,6a9ec22a-cad8-48c5-a746-f22b6ecb9815,"['0306', '0301']",Research Foundation Flanders,CONNEXIN HEMICHANNELS AS PRO ARRHYTHMIC MEDIATORS IN CARDIAC HYPERTROPHY AND HEART FAILURE
+75,6eed594d-368f-4d76-b165-57df77cd8e84,['0103'],Research Foundation Flanders,Fundamental understandings and development of a novel plasma biofunctionalized D printed electrospun scaffold for synergetic vascularization and regeneration of spinal cord hemisection
+76,d0146a8d-eaaf-4e06-8976-c1329f137ce1,['0203'],not specific,The CO simulation of UNsTeady aERodynamics COUNTER Integrating wind tunnel experiments and numerical simulations to a deeper level A novel methodology using structured data driven models
+77,3801a473-716e-4733-b59f-06169ba8fd5f,['0103'],not specific,The CMS experiment at the CERN Large Hadron Collider
+78,c09f5d82-aca7-4395-8cc4-afc19f470a87,['0103'],not specific,Exploring the Extreme Universe with the Extended IceCube Neutrino and Cosmic Ray Observatory at the South Pole 
+79,17cf6d74-1d28-41dc-8ecb-10fd6434618d,"['0208', '0102', '0202']",not specific,Efficient generation and compression of digital holograms with deep neural network encoding 
+80,c402f603-40d7-4a4e-bb87-5e68dc155567,['0301'],Research Foundation Flanders,In situ Biofilm
+81,f30cfcd2-9d2c-4ea7-827e-c7e45d479cb6,"['0201', '0601', '0604']",not specific,Reviving the circular building industry Looking into construction demolition and reuse from the past to the future 
+82,06e43222-d9fe-4b3c-b12d-ac44eeb499e6,['0103'],European Commission,The origin of cosmic dust in galaxies
+83,c8d35293-c565-4391-86d2-1d28453c5255,['0205'],Research Foundation Flanders,FWO sabbatsverlof Prof Vera Meynen 
+84,bd894665-9cbc-4f22-9017-ec2651872fa6,['0206'],Flemish Government,Process monitoring and controlled biomanufacturing of human periosteum derived progenitor cells for cell therapy applications
+85,a327a9e7-df4f-4485-b634-e2edffc3e982,['0501'],not specific,Models and Techniques for the Meta Analysis of Dependent Effect Sizes
+86,085e38db-2454-4f12-8c70-b82c114be744,"['0102', '0104', '0205']",Research Foundation Flanders,Tailored crystals on demand gaining a full understanding of the crystallization of low dimsional hybrid perovskites 
+87,70ec91c0-23f2-4281-a7bf-0df99de3dd9c,"['0203', '0202']",not specific,Fiber optics predictable physical models towards load analysis in mechatronic systems FiberMech
+88,fa38700f-2e22-490e-bacb-d312f5b12f23,['0104'],not specific,Francqui Research Professor Catalysis for sustainable organic chemistry CASCH 
+89,57348444-1f3a-48ea-b66c-4e3e01b87e77,['0104'],Research Foundation Flanders,Gold Photocatalysis PhotAuCat 
+90,807dc9a3-1ff9-415a-bc44-a772901e3ab8,"['0102', '0106']",Flemish Government,Computational analysis of large scale biological data
+91,cb0b8ad6-113b-43ac-baf8-c1f4853949c5,"['0106', '0207']",Flemish Government,The secret garden diatom adaptation and evolution in benthic environments
+92,706b444a-83e9-4015-982e-d0d14c34a368,"['0301', '0106']",Flemish Government,Novel mechanisms of inflammation and cell death regulation in autoinflammatory and infectious diseases
+93,33087f25-9323-4886-93c1-a6245311dc10,"['0106', '0301']",Research Foundation Flanders,ProteinContour proteome scale unraveling of the relation between post translational modifications biophysical properties interactions and sub cellular location of proteins 
+94,4dfaa7d1-00cc-4340-a1de-95d9856de736,['0106'],Research Foundation Flanders,How Ulva blooms unravelling the genetic architecture of green tides
+95,fd586545-ec5f-43b0-be5e-0321591ff9d9,['0505'],Research Foundation Flanders,Intelligent contracting legal aspects of the precontractual use of artificial intelligence
+96,2ca5ca4d-6515-4131-9e40-e3925ee4d821,['0201'],not specific,Living at in the Edge River Restoration as a New Urban Design Strategy
+97,1cd2d513-71bf-412b-9541-04236425ca6b,"['0301', '0306']",Research Foundation Flanders,One HeAlth InteRventIon and TransmiSSion in AMR HARISSA 
+98,8bc3535c-4697-4189-8368-7ee35e98e920,"['0302', '0303']",European Commission,SARS coV variants evaluation in pregnancy and paediatrics cohorts VERDI 
+99,59d6de35-c7ba-4115-a8d2-b89334f59b79,"['0302', '0303']",European Commission,European Corona Vaccine Trial Accelerator Platform VACCELERATE 
+100,833225ac-fdd4-4d2b-93f4-80d654802508,['0301'],Research Foundation Flanders,Are SARS CoV specific antibodies a correlate for protection 
+101,510edba5-01f0-4e20-a01f-8ef1402e3464,"['0302', '0303']",European Commission,Rapid European SARS CoV Emergency research Response RECoVER 
+102,b02f4235-d8ff-4a3a-b9a3-00ea1d989156,"['0603', '0504', '0601', '0602']",Research Foundation Flanders,Freising and the Slavs under bishop Abraham A text based approach to mission and pastoral care among the Carantanians in thecentury
+103,53ab5889-d6ae-4953-8f4c-2798eec25488,['0302'],Flemish Government,BDNF engineered regulatory T cells a future regenerative cell therapeutic strategy 
+104,5667b5e9-a7b1-4b88-be3d-8711a6298f0f,"['0301', '0306']",not specific,In vivo effects of novel YAP TAZ TEAD inhibitors
+105,01f3108c-c3d3-4eae-a832-38081a96470d,"['0106', '0301']",Research Foundation Flanders,Deciphering the regulation of long term memory by neuripeptide regulation
+106,fbb14bbf-c8d4-4bea-aaaa-e0470724740b,['0104'],not specific,Processes for decentralized ammonia synthesis from water air and renewable energy
+107,6c47dcc5-136c-4825-b740-96d7c84b547f,['0106'],Research Foundation Flanders,Riboproteogenomics of the sORF encoded Salmonella peptidome
+108,5d627c79-d67b-4c77-89e9-2cf1d658da82,"['0502', '0507', '0599']",not specific,ICP Incrementele toelage Master of Development Evaluation and Management
+109,b9542f02-b9f8-464d-a5f9-53b643797aa0,['0207'],Research Foundation Flanders,PurpleSky Unlocking the genomic potential of purple bacteria for microbial food production on H and CO derived compounds 
+110,22dad376-6b7a-48ec-a4cd-c5e096508474,"['0499', '0106', '0402']",Research Foundation Flanders,MALDI TOF MS driven cutting edge research in fundamental clinical and applied microbiology and biochemistry
+111,135650d4-c378-4c21-b483-491e8be861cd,['0504'],Research Foundation Flanders,Decolonising social norms change An analysis of the politics of knowledge production in relation to Female Genital Mutilation Cutting and child marriage
+112,376f69ed-027b-4233-8dc7-620207d640c4,"['0201', '0504', '0506']",not specific,Forced Displacement Urbanisms Territorial Biographies and Contemporary Narratives in the Syrian Refugee Camps in the Kurdistan Region of Iraq
+113,d8cde00e-5da4-46d0-9935-6217ff95d179,['0202'],not specific,Correlation between objective and subjective descriptors of a lit indoor environment
+114,34b37470-0e36-4bed-9f2b-61174756ff89,"['0301', '0303']",Research Foundation Flanders,Vaccine preventable diseases in pregnant and lactating women 
+115,9aca6d35-1c22-481d-849e-0b869cf713f6,"['0304', '0301', '0302']",Research Foundation Flanders,Towards an understanding of the role of soft tissue structural and mechanical properties in upper limb function after breast cancer treatment the SOFT TI TRIAL
+116,9fbf1cc8-f87a-47e2-9431-0fd0387ccf01,['0202'],Flemish Government,Agrivoltaics
+117,9b5a267b-666b-4a17-b2ca-7cc1bb2c4101,['0106'],Research Foundation Flanders,Endocytosis and cellular recycling in an ageing context
+118,44a2792c-3a73-4f15-b6b5-8f0c7ee499b7,"['0301', '0304', '0306', '0501']",not specific,Illuminating Infant Development The Autonomic Nervous System and Autism
+119,e8f51c7c-e5bf-4a44-9a61-5b17c075a251,"['0101', '0502', '0102', '0501']",Research Foundation Flanders,SCOREPLUS Scalable Node Representation Learning in Customer Networks New Techniques and Application 
+120,88cf48cf-2c7a-4d72-9dc7-90d24e181043,"['0506', '0601', '0201', '0604']",Flemish Government,Building for Belgium Belgian Embassies in a Globalising World 
+121,d13c82e9-35db-4824-ba36-bab73f7c16fd,"['0104', '0305', '0103']",Flemish Government,Synthesis of CXCR and CCR chemokine receptor antagonists targeting a conserved intracellular binding site
+122,a3e71f6e-6276-40d9-a64f-f8aae5d3c677,"['0107', '0401']",not specific,Impacts of soil improving cropping systems on physical soil quality
+123,3af5e7d2-1eeb-4fcf-8e31-788d486c1957,['0301'],not specific,Defining the role of ZEB in tumour initiation and progression of basal like breast cancer
+124,becfdc03-5c5b-4c43-b83d-4c26444f279d,"['0301', '0106', '0302']",Research Foundation Flanders,Type III intermediate filaments molecular structure to understand muscular disease
+125,b62903ef-09a5-4c70-819e-ba93ad7d76f1,"['0301', '0106']",Research Foundation Flanders,Characterization of CXCR ligand proteoforms in inflammatory lung and joint diseases for identification of therapeutic targets
+126,c2b85161-1efe-481c-95f7-ea21fdde7010,['0103'],Research Foundation Flanders,New theory and applications with the regularized Kappa distribution
+127,c50a4783-d5b6-4ffd-9fba-13dcf1e67d21,['0302'],Research Foundation Flanders,STOP SEPSIS investigation into a new concept of sepsis the greatest unmet medical need of our times 
+128,4fb1a988-394f-4f4d-9d9b-3bd9e862aa3a,"['0306', '0302']",not specific,Can we use resting state fMRI and CSD fiber tractography in presurgical mapping 
+129,44599998-907c-4026-9a70-fd46930820c3,"['0201', '0203', '0204']",European Commission - Next Gen EU,Circular moss filters for an innovative nature based outdoor air purification system 
+130,11d278d5-8c42-4502-9cbd-1e0dc882056d,"['0301', '0306', '0106', '0304']",not specific,Mapping and treating metabolic rewiring in mitochondrial disease
+131,2e5fe6bb-370f-45a9-a0fd-5a83b91e6d62,['0301'],Research Foundation Flanders,Inducing angiogenesis in pancreatic cancer with cold atmospheric plasma to enhance drug delivery and efficacy 
+132,b69d64d4-03d2-4ea9-9a19-f6b01dee0055,['0203'],Research Foundation Flanders,Optimal prosumer based district heating and cooling using reinforcement learning agents 
+133,b1e657ca-f82f-486f-bf0a-cf16b881b45b,"['0103', '0208']",Research Foundation Flanders,Fast x ray phase contrast computed tomography for materials science and industry
+134,c7edeecc-b697-4026-9202-c5ada2a85ad0,['0302'],Research Foundation Flanders,Microvascular dysfunction in adults with a congenital heart disease and the effect of exercise training MICONEX 
+135,03cf9e1b-2593-4555-8fe1-0c6c04a1eff2,['0106'],Research Foundation Flanders,The evolution of cognition and personality in island lizards
+136,7d6796f5-87a8-48cc-898b-e87a3c367683,"['0301', '0305', '0306']",Research Foundation Flanders,Blocking ischemia reperfusion injury during dynamic preservation of organ grafts using lead ferroptosis inhibitors 
+137,65baac07-0307-4fc6-b714-908144d5ae64,['0306'],Research Foundation Flanders,Targeted treatment for KCNQ related encephalopathies retigabine analogues repurposed drugs and allele specific knock down TREATKCNQ 
+138,07c3074e-a6ea-44e5-a525-425783d0bffb,"['0305', '0306']",Research Foundation Flanders,Mutant allele silencing and novel potassium channel openers as targeted treatment strategies for KCNQ encephalopathy validation in induced pluripotent stem cell derived neuronal cultures 
+139,810238ad-7836-41d8-8c2a-24c8d10c816f,"['0501', '0503']",Research Foundation Flanders,FWO sabbatical Prof V Donche 
+140,8ce61c19-74f1-443e-b3c1-d3e9edd92955,['0502'],not specific,Developing Geotourism as a Sustainable Development Vehicle The case of the Lake Tana Region Ethiopia
+141,5e38fc60-e0d6-4c3a-a914-8bca31a5cda4,"['0106', '0301', '0306']",Research Foundation Flanders,Uncovering regulators of H K methylation in cartilage to identify targets for osteoarthritis therapy
+142,16707084-0d86-487b-9fe8-8e9233f08992,"['0201', '0105', '0205']",Flemish Government, D multi scale structural characterization and long term performance related to efflorescence
+143,baad748d-66a9-41aa-8b75-f43bad8e31c6,['0106'],Research Foundation Flanders,The influence of protein N terminal acetylation on protein conformation
+144,8a48cbc7-dd48-489e-b93b-750c8a83ae7a,"['0104', '0204']",Flemish Government,Development and Optimization of Photochemical Reactors for Productivity and Efficiency
+145,72f0a72a-13e9-4175-ab9a-797a1ebfb09a,"['0502', '0507']",Research Foundation Flanders,Innovative Entrepreneurship in Cities and Regions Knowledge Connectivity Incumbent Appropriation Strategies and Multinational Firms
+146,eca7c676-77cb-47dc-b2ae-7a7f16316128,"['0502', '0102']",Research Foundation Flanders,Process Model Forecasting From Short and Sweet to Long and Lasting
+147,354bca53-7e8b-4926-ba7e-a356e33d785d,"['0301', '0303', '0305']",Research Foundation Flanders,COIN B COntrolled Interruption of Nucleos t ide analogue treatment in chronic hepatitis B 
+148,bbbb8a03-33bf-4750-96ee-3d193fbbeeb5,"['0401', '0106']",not specific,Marketing and product quality as keys to success of marigold cultivation
+149,d7238ab3-4331-4c42-9caa-6e3de470abe9,['0602'],Research Foundation Flanders,CLARIAH VL Open Humanities Service Infrastructure
+150,6a22efc1-cae7-4933-bae8-cc6baeaa9e6b,['0601'],Research Foundation Flanders,The Quest for Otherness Uncovering Narratives of Religious Distinction in the Long Tenth Century 
+151,c0925b81-ba62-4fa1-8aff-1a4220049c08,['0505'],Research Foundation Flanders,Medieval Regulae Juris Origins Evolution System 
+152,4f1204f6-116a-4814-b165-49b50274ee0c,"['0301', '0302', '0305']",Research Foundation Flanders,Regulated necrosis as a pharmacological target in atherosclerosis 
+153,fa17c484-6d80-4f15-baf2-777151594727,"['0205', '0202', '0203']",Flemish Government,Thermal and electro thermal characterization of GaN powerbars
+154,ced53752-c7c0-4680-a06c-cf49ba52c753,['0103'],Flemish Government,Ab initio simulations of novel D materials and interfaces for advanced ICT applications
+155,7a40b2f8-1baf-431f-8969-3ee0bb3c14fa,['0104'],Flanders Innovation & Entrepreneurship,Development of zeolite adsorbents for industrial applications
+156,23b27f18-fa4b-4373-90ee-ec1c46811e68,"['0106', '0401', '0301', '0306']",Research Foundation Flanders,Molecular Plant Pathogen Interactions
+157,0e1ec1c5-1761-4e00-ba23-20abbe974fc5,"['0202', '0203']",Flemish Government,Degradation Mechanisms in Perovskite Photovoltaic Devices
+158,89e3df09-e45e-40b9-b01e-16f79f856f57,['0102'],Flanders Innovation & Entrepreneurship,FARAD SORT Fast Deep Learning and Deployment for Products Sorting
+159,ae0f3a62-fe80-4e72-80a2-60013f1ee648,"['0101', '0102']",not specific,Preserving Language Abstractions Gradual Typing and State Threads
+160,111e6e1f-ec0e-45e6-99e3-3cab8c7d7204,['0601'],Research Foundation Flanders,Rethinking sailortown Comparing the socioeconomic dynamics of harbour districts in Antwerp and Boston 
+161,0d81da2b-7c61-4fa2-b76f-bfe5d059adb5,['0302'],not specific,SRP Onderzoekszwaartepunt ITAREG Molecular Imaging and TArgeting of immunoREGulatory cells in Inflammatory diseases and cancer
+162,bae60c67-4f54-45ba-a6cb-e68320b01a96,"['0401', '0106', '0105', '0107']",not specific,Greening intensive farming landscapes evaluation of ecosystem service provisioning in Flemish apple farming
+163,53ffddbf-b58e-4a74-a11b-5a72a7a992df,['0201'],Research Foundation Flanders,Advanced performance assessment of existing concrete buildings by coupling D analysis of load arrangement structure analysis including membrane action and test based model updating
+164,d283b28f-55bd-49d6-9d5a-d86f093d3e85,"['0206', '0104']",not specific,Sampling made SIMPLE Towards a fully integrated low cost and wearable diagnostic technology
+165,7f0695dc-5d7e-4b29-9557-d1e4d95af998,"['0106', '0299', '0599']",European Commission,Inspired to Integrate Filtering NatureDiversity for Nature friendly Implementations Nature Nature 
+166,47542274-7d55-472d-b34f-666541a79dbf,['0103'],not specific,Laser ultrasonic testing methods for crack detection and plastic deformation monitoring under dynamic loading stress
+167,ab40d62b-9944-4f0b-91d8-33ed07460fd7,['0207'],not specific,Resource effectiveness as a guiding principle for the circular economy transformation 
+168,d8e8f6a8-1b0e-4da6-b439-cd8c29ec06ea,['0102'],not specific,New Privacy Engineering Methods for Artificial Intelligence
+169,dfa91176-f19b-45ec-ab1b-5ab220cf2ded,"['0202', '0208']",Research Foundation Flanders,Robust speech capture and enhancement using ad hoc distributed microphone arrays by integrating and embedding domain specific signal models within deep learning frameworks
+170,98330213-1a27-4711-bc7f-122a22fcb116,"['0103', '0101', '0202']",not specific,Singular Electromagnetics A Symmetry Point of View
+171,065e5820-de2a-453f-ae2b-58d97b8b3685,"['0106', '0207']",Flemish Government,A high throughput electroporation system for rapid strain development for industrial biotechnology purposes
+172,e47de113-89a4-427d-9d9d-7f8af606443d,['0208'],not specific,Rigorous security guarantees for programming languages BOF Tenure Track Mandate WE 
+173,d9284914-ddd3-4cbe-9c01-7129521f325e,"['0202', '0599', '0401', '0603', '0107', '0208', '0102', '0207', '0502']",not specific,Animal Welfare Indicators at the SlaughterHouse
+174,de83478e-7d86-4c40-bc00-d3886b3b5cd2,['0205'],Flanders Innovation & Entrepreneurship,Hyperspectral cameras for the efficient assessment of coatings corrosion and material surfaces HypIRspec 
+175,7d4a81c1-623d-42ec-ac54-29b867a3d003,"['0208', '0203']",Flemish Government,Cofinancing core facility Centre for X ray Tomography U UGCT
+176,6a6d55ca-df65-40c8-93ba-f2fd63be5037,"['0103', '0102']",Flemish Government,Reparameterization of ReaxFF force fields using sensitivity analysis and a novel global optimization approach AutoCheMo 
+177,45c44d83-6946-4593-be5b-7de9e9a1cc39,"['0202', '0104', '0205']",not specific,Low k materials engineering for nm technology node and beyond
+178,9c9a8559-83b7-4dda-a54b-497eb6cac164,"['0106', '0301', '0306']",not specific,Computational design targeting the androgen receptor CCR receptor and NSP enzyme
+179,abf4a4b9-16be-4d0e-9092-6a02870e5b40,['0506'],Research Foundation Flanders,The locality of transnational solidarity within the European Union LOTSEU 
+180,f6101255-5eef-4634-9e4d-adf8acef7ccd,['0603'],Flemish Government,Translations in the History of Eastern Christianity
+181,fb34a910-b080-4474-82c1-762b049fb78d,['0501'],not specific,Illuminating the darkness Unravelling the Aha experience
+182,901def5f-e264-426b-859c-a84ee6cf9de1,['0508'],not specific,SRP Onderzoekszwaartepunt Strategic Research Programme on media economics Algorithm Driven Media industries and how they reshape value in small markets
+183,78de8f7f-20f6-48f1-8544-fc7300d59820,['0104'],Flemish Government,SRP Onderzoekszwaartepunt Sustainable chemical technology using multifunctional structured materials
+184,18583863-bf3c-4531-a866-c9db06a5e0cb,['0507'],Flemish Government,SRP Onderzoekszwaartepunt Earth from Accretion to Anthropocene Documenting Billion Years of Global Changes
+185,6f1f839c-c23c-4a9a-8ad6-568767e5105b,"['0401', '0601', '0502']",not specific,Dietary advice on meat and dairys science confusion power and impact
+186,f5fb7166-cd39-4d72-b557-9916f0bd8305,"['0305', '0301']",not specific,Conopeptides as tools for studying pacemaker channels and for the development of novel cardiovascular drugs
+187,b3740101-8a6c-4ad5-9a3a-79ce0edaed9f,['0204'],not specific,SRP Groeifinanciering Synthetic biology for the development of microbial cell factories
+188,10708547-1011-4fe7-8320-2f96df021f9c,['0103'],Flemish Government,SRP Onderzoekszwaartepunt High energy physics HEP VUB 
+189,1f77dcf2-befb-4fff-b397-59358881b404,"['0303', '0504', '0301']",Flemish Government,SRP Onderzoekszwaartepunt Addressing the challenges around serious illness palliative care and the end of life public health health services and clinical innovations
+190,29336e41-9a43-4897-bd04-6c18efe18e9a,"['0104', '0305', '0103']",not specific,Solvometallurgy for recovering metals from secondary resources
+191,970fc5cc-2600-4665-b600-7ffe3cab4895,"['0301', '0302']",Research Foundation Flanders,Decrypting deficient embryo endometrium interaction in infertility using cutting edge blastocyst and endometrium models spotlights on endometriosis and polycystic ovary syndrome
+192,677cbc73-bb45-4788-8fd5-a0d7d4506c50,['0205'],not specific,Molecular Dynamics Simulation of Reactive Wetting of Liquid Aluminium on Solid Nickel Substrate
+193,2b7a3639-06d4-4f7c-9e17-5153bc8041d8,['0302'],European Commission,Strengthening the Sfax University expertise for diagnosis and management of epilepctic encephalopathies SEED 
+194,a70660a1-4286-4e18-96bc-65aa937fde35,['0602'],Research Foundation Flanders,A corpus based analysis of grammatical cohesion in L German Insights into the effect of learners native language on academic writing proficiency in a foreign language 
+195,1ba507bf-d9af-4809-bd71-190cfe0197c0,['0501'],Research Foundation Flanders,Harnessing the power of placebo with prefrontal transcranial direct current stimulation an experimental psychopathological research line
+196,9dfa927d-38bb-466b-a984-3d99948f658d,['0504'],Research Foundation Flanders,Towards a cultural sociology of sustainable citizenship Understanding different ways of crafting sustainable citizenship through cultural repertoires 
+197,656fb23c-d4ac-4998-84f9-9852deb52a08,"['0301', '0302', '0305']",Research Foundation Flanders,Investigating the hair metabolome to characterize the progression of alcoholic liver disease using a multiplatform untargeted metabolomics workflow METABOHAIR 
+198,3efa7a85-0700-4dcb-a02c-d059a68206af,['0506'],not specific,European foreign policy and hybrid actors in the Middle East and North Africa a pragmatist decentring approach
+199,59378a2a-6776-472f-9827-aceb91e0387b,"['0302', '0106']",Flemish Government,Inhibiting iron metabolism to target metastases
+200,b376282b-64df-4aae-b475-ffef7eafe9b6,"['0302', '0301', '0306']",Research Foundation Flanders,Cell free nucleic acid profiling in diffuse large B cell lymphoma a molecular guidance to precision medicine
+201,061ca8a1-b143-47f6-aa03-db0f484bbc51,['0205'],Research Foundation Flanders,Double dynamic polymer network architectures for multi stimuliresponsive materials 
+202,2fc8abb6-0446-4690-8934-c92209b8b6df,['0205'],not specific,Self HealINg soft materials for susTainable prOducts ShINTO
+203,ea5109bd-9983-4d26-8635-302eaa61837d,['0103'],not specific,The future CMS tracker Ensuring maximal detector performance and readiness 
+204,ac1c630a-3909-45e4-8345-b07a3e2d0f2d,"['0201', '0202']",Flemish Government,Assessing the energy thermal comfort and economic impact of Building Automation and Control Systems BACS Towards a reliable evaluation for new and retrofitted residential buildings 
+205,6e1d704e-4abc-4e39-9147-0ef71d5f5db1,['0601'],not specific,Plumbing the City The regulation of sanitary installers in urban Europe 
+206,c3f8213b-cca1-4d6b-a153-32b8cdefa12a,"['0106', '0301', '0306', '0104', '0304', '0401', '0205', '0206', '0207']",Flemish Government,Advances in nuclear magnetic resonance spectroscopy for the structure elucidation of water extractable and water unextractable arabinoxylan from wheat Triticum aestivum L flour
+207,9e62fa10-2429-4cb3-8224-95441852e1f5,['0502'],Flemish Government,Resilience of insurance companies worldwide moderating effects of regulatory quality and competition
+208,c87147e7-9cd3-4b6a-8b50-4e4779c92aa2,['0306'],Flemish Government,SRP Groeifinanciering The spermatogonial stem cell the key to prevention and treatment of male infertility
+209,819e98cf-267b-4f36-83ea-7c94610a981b,"['0303', '0504', '0301']",not specific,Towards timely integration of specialist palliative home care services for older people with dementia with complex care needs and their family carers a mixed method theory informed study
+210,a633023e-8605-4844-aca1-5a51e5afc607,['0302'],Flemish Government,Therapy response monitoring in pediatric cancer basket trial patients
+211,6b448445-73ca-4e81-bf72-d0f642f01ed8,['0106'],Flemish Government,Phosphorylation mediated signaling during heat and drought stress in plants
+212,1fae5b31-eb61-4b62-a88f-d46624534beb,"['0202', '0208']",Research Foundation Flanders,Networking aspects of optical networks on chip for multi chip computing systems
+213,a4343d0c-c46d-4f5e-947d-0b43e591301c,"['0306', '0206']",Research Foundation Flanders,Development of an interactive tool for patient specific surgical treatment planning in kidney cancer
+214,e422fe44-83c2-4fd9-8c87-9e02e0e06f94,"['0204', '0104']",Research Foundation Flanders,Design of Fe based Catalysts Using Machine Learning Potentials to Recycle CO to Jet Fuel
+215,dcddc597-f8a9-43ce-8963-388092114e6c,"['0202', '0203', '0205', '0102']",Research Foundation Flanders,Modular system for instrumentation of everyday objects to accelerate robotic learning
+216,3e0c8595-9ae8-4810-a72a-0a2b1fea33dd,"['0301', '0208']",Research Foundation Flanders,Deep learning models for predicting molecular tumor properties directly from Whole Slide images
+217,74a91d7a-7c6c-4808-ba68-3b62c8ec8186,['0201'],not specific,From Welfare to Care Urbanism Moving from Ethnography to Projective Scenarios in H liport and Brigittines High rise Social Housing Estates Brussels
+218,0e3835ca-20dc-429b-b1f4-9f344f34c843,['0602'],Research Foundation Flanders,Late or Too Late Old Age in the late Latin Elegies of Maximiancentury AD 
+219,cfe43586-cef7-4d6a-8043-bb8adac9ab1b,"['0202', '0203', '0501']",Research Foundation Flanders,Deep Temporal Models for Perception and Control
+220,861edceb-68f4-4d03-866a-a02a0fbd78ea,['0103'],Flemish Government,Eggs Bubbles and Wormholes in semi classical quantum gravity
+221,08af9ceb-451c-40c3-8d38-1c660b6b6900,"['0508', '0604']",Research Foundation Flanders,The Belgian Silvering Screen A multi method research project on ageist discourses and representations in Belgian cinema 
+222,61ff94a4-f220-41c6-93f7-f00454cc66ac,"['0301', '0302']",Research Foundation Flanders,Liquid biopsies for diagnosis prognosis and follow up of neuroendocrine neoplasms clinical translation of novel technologies for epi genetic biomarker detectio 
+223,01cc3066-9bf3-4e74-8c4c-14f0975e1273,['0505'],Flemish Government,Migration Equal Opportunity in Education a human rights law analysis
+224,98f05cce-9711-413c-832c-c6bf8fbab102,['0502'],Research Foundation Flanders,Computational methods for pricing scenarios on regional networks
+225,e2f4da6d-56b3-4a13-bf2c-6005a0819fe3,['0101'],Research Foundation Flanders,Bernoulli actions of type III and their von Neumann algebras
+226,a34b3853-79fa-47d4-a096-def748a430d0,['0106'],Research Foundation Flanders,Investigating the post translational control of SOMBRERO a key transcription factor of plant programmed cell death
+227,43d70cdf-288c-480d-a569-5762608d0d3a,"['0301', '0306']",Flemish Government,ER MITOCHONDRIA CONTACT SITES MEDIATED LIPID TRANSFER AT THE CROSSROAD BETWEEN LIFE AND DEATH
+228,0f374b57-630c-4909-8d29-5f6e66689552,"['0202', '0203']",not specific,Large Scale Video Understanding
+229,70bf44df-1b32-4186-85c9-36a64f353516,['0303'],not specific,Together Works 
+230,212693f8-1a99-410b-b31b-70029974c67a,"['0401', '0106']",not specific,Thermal manipulation during incubation of broilers Implications for heat resilience performance and behaviour
+231,78947c88-2c8f-4eab-a7a3-86ede27b1ada,"['0106', '0301', '0306']",not specific,Entry inhibitors for human respiratory virus SARS CoV 
+232,ec263310-33d1-4c80-833b-8ec3899e9b10,['0106'],Flemish Government,Deciphering a biotic stress mediated COI phosphorylation code in wheat
+233,8d173c81-2324-42e7-b436-ff2fd555e9cd,['0104'],Flemish Government,Designing affinity based nanoswitches on a fiber optic surface plasmon resonance biosensor for continuous biomarker monitoring 
+234,bf3ae061-23e1-4bda-8953-ce48f8d7e7e5,"['0106', '0305', '0306']",Research Foundation Flanders,The study and therapeutic targeting of endoplasmic reticulum stress in hereditary chondrodysplasias 
+235,5941a437-ea0b-4fce-a123-e02bea3cda14,['0301'],Research Foundation Flanders,Prevention of ventilator associated pneumonia analysis of the in vitro and in vivo anti biofilm capacity of cecropin based coatings on endotracheal tubes 
+236,b80b656f-14c1-4b13-b34f-583f8eb44f0c,['0301'],Research Foundation Flanders,The role of elastin derived peptides in the progression of arterial stiffness with a focus on autophagy inhibition as contributing mechanism 
+237,6b3f90d0-aecd-4b86-8fae-cd060d2346f1,"['0106', '0301', '0306']",not specific,Signal peptide dependent ER translocation as target for selective small molecule inhibitors
+238,4b92b246-f22f-4dc7-9664-cf709a586d24,"['0102', '0103']",Research Foundation Flanders,Moir magnonics 
+239,fc51f595-19e1-44ca-8b0e-8a1561c5154d,"['0104', '0107', '0305']",Research Foundation Flanders,Novel analytical and environmental insights in the human exposure to Synthetic ANTioxidants by Advanced mass spectrometric workflows SANTA 
+240,2092c1aa-6516-46ff-bdb8-049a2f240254,"['0502', '0504']",Research Foundation Flanders,Money isn t all that matters in life towards the use of multidimensional wellbeing measures in the ex ante evaluation of social policy 
+241,3bd74a50-089a-4f65-85d1-965c36ce2b10,"['0201', '0604']",Research Foundation Flanders,Porosity of Building Structures tracing multilayered changes to converted buildings 
+242,99bff126-699d-4f5b-8b5e-d15d9db9e3c4,"['0303', '0603']",Research Foundation Flanders,Precision medicine from the margins a standpoint epistemological exploration of a new paradigm in medicine 
+243,38146374-b9d2-4c43-a689-3d2f24635e5e,"['0101', '0102', '0502']",Research Foundation Flanders,Explaining prediction models to adress data science ethics in business and society 
+244,75bc0769-24ac-4ed2-866c-fbbe55bf6b51,['0502'],not specific,A Social Psychological Perspective on Angel Investment Decision Making
+245,58cfd4da-b2c9-4fa4-97e4-3a87579c6972,['0502'],not specific,Itnot what you said but how you said it the relationship between linguistic cues and marketing communications
+246,45a290b9-e74f-4e1e-bd79-3411d6be5407,"['0301', '0306']",Research Foundation Flanders,Identification of novel treatment targets through improved pathomechanistic insight in IPO deficient aortopathy 
+247,e85991b3-02b5-4133-9f00-b0eeb403da4a,['0305'],not specific,Advanced analytics in pharmaceutical innovation the use of real world evidence in oncology
+248,ad7f9d85-dbfe-48ae-9372-a19eb31913fb,['0101'],Research Foundation Flanders,Extreme events in vast dimensional systems
+249,3c3d4014-3918-4ecf-9193-8e987906a1a9,['0502'],not specific,Negotiate your space global narratives of women entrepreneurs dealing with social norms
+250,6b6de580-8825-43d4-a241-70506f85d6de,['0502'],not specific,Toward a digitally enabled labour force in Public Administration
+251,c3466b3d-89b8-466a-8e4d-56de41007904,['0502'],Flanders Innovation & Entrepreneurship,Designing Idea Contests to Optimize the Front End of the Innovation Process
+252,a0d39b6d-f6cb-48f5-830e-f23b3d132534,['0102'],not specific,Machine learning for payment fraud detection
+253,14016e83-5217-4320-a36c-d152a096dc37,['0502'],not specific,How contextual data can enable relevant customer experiences
+254,1a1bc1ee-b974-403d-9dea-0c919a7091b1,['0305'],Research Foundation Flanders,The Market Access of Complementary diagnostics
+255,4545c102-be28-4d52-bf2a-80e1d1bcac86,"['0208', '0202']",not specific,Unified Sparse Representation for Plenoptic Modalities UniMode 
+256,dcdb2ac3-baca-4a3d-b0f8-717c118664fb,['0303'],not specific,Value based healthcare of state of the art care pathways for adult spinal deformity in University Hospitals Leuven
+257,cab44891-63c4-4192-a994-1b55a498eb23,['0303'],not specific,Cost variability in medical treatments a value based healthcare perspective
+258,e102bdee-cfba-4066-ae3c-6f8a00a64124,['0502'],Research Foundation Flanders,Strategic Decision Making in Entrepreneurial Firms A Coalitional View
+259,4b9ea739-2077-4e49-82ef-3690daff4ec0,['0502'],not specific,Insurance and macroeconomic growth in times of financial technology and unconventional monetary policy 
+260,2d9b2885-30bc-4ff6-96bf-a1d123fd643b,"['0301', '0306', '0501']",not specific,Sound and Vibrations in Acoustic Hearing Implants
+261,0b3d50e7-dc0d-425e-937a-5d2d674578a6,"['0101', '0102', '0501', '0502', '0503']",not specific,Innovative public procurement as a lever for public procurement for innovation
+262,48d929e5-5760-4360-9d7b-7ce46f91f2d9,['0601'],European Commission,DAEDALOS Conceptualising Processes of Monumental Architectural Creation in the Eastern Mediterranean Bronze Age
+263,953c5021-65c5-4b2a-9a48-2b0e782af4ee,['0105'],Flemish Government,Understanding how glacier dynamics is recorded in lake and fjord sediments GLADYS 
+264,a1a0a387-97cb-4290-ba4f-464c26963ff9,"['0205', '0207', '0301']",Research Foundation Flanders,Design of self healing living mycelium materials at the intersection between biology and materials science 
+265,a09284cf-9966-4730-aa9d-9a4b294a4a37,['0107'],not specific,Prospective Research Plastic City Prospecting the plastic environmental debt in the Brussels Region present status and future projections
+266,5c1f7fa6-ce50-4302-a1b7-a7897ef695d4,"['0201', '0604']",not specific,Remote Practices Insights on Architectural Design Processes 
+267,f20fe672-3440-4085-a99f-d76b8dafa36e,['0102'],not specific,Decision making in team reward multi objective multi agent domains
+268,b6f92791-5dc0-4b88-95f5-4f8e7333916d,['0301'],not specific,System xc as metabolic regulator in the aging brain
+269,3506887a-5f20-4422-b87e-b45ada2541c9,"['0305', '0306', '0206']",Research Foundation Flanders,Understanding and modulating the pro inflammatory activity of lipid nanoparticles LNP in the COVID mRNA vaccines towards the development of more effective LNP formulations 
+270,10dba661-c2ca-4563-adf5-ef4812671186,"['0107', '0305', '0303', '0104']",Research Foundation Flanders,DNA adductomics to study exposomic drivers of disease
+271,a1c59e78-99bb-44cb-baf1-e2b1ac09b46e,['0106'],Research Foundation Flanders,Regulation of leaf pavement cell identity in Arabidopsis the network around SIAMESE RELATED 
+272,1f1c6600-0a96-44ef-9d10-22c6fa81a9cc,"['0106', '0207']",Research Foundation Flanders,New to nature Biological Sensors Unlocking the full potential of biological sensors beyond nature
+273,7fef4ee4-b2c5-4d5d-9bfc-ce6b8c0ed38e,"['0202', '0208', '0206']",Research Foundation Flanders,Development of an integrated end to end simulation platform for continuous manufacturing of oral tablets
+274,02edc750-a1fe-47f0-b232-f77eac0458a7,['0204'],Research Foundation Flanders,Chemical Looping Innovative Materials and Advanced Technologies CLIMAT 
+275,388b1f3f-90fb-4fa0-9b9c-adad339db2f7,['0104'],Research Foundation Flanders,A Reactive Molecular Model for Aluminosilicate Chemistry to Study Zeolite Formation
+276,0b296b96-5370-49e6-9432-590a5fddc725,"['0305', '0301']",Research Foundation Flanders,Investigating the biomarker potential and pathological role of extracellular vesicles in ParkinsonUdisease 
+277,173a9645-fc4e-4033-9aa8-acc7319fa4b7,"['0306', '0302', '0106']",Research Foundation Flanders,Pandemic preparedness developing a multiplexed mass spectrometry assay to screen for pathogens and the induced immune response 
+278,9a339f3e-8155-49c5-bba3-cd24a7544ff6,['0306'],Research Foundation Flanders,Fine tuning and engaging the immune system to defeat AlzheimerUdisease 
+279,6c5dedf5-e5ea-4751-b352-fc8dcd2962e0,"['0102', '0105']",Research Foundation Flanders,Novel approach to assess the impact of C C and C global warming in cities
+280,3568b8fb-7f7e-4f34-80ac-e61995d83621,"['0301', '0306']",Research Foundation Flanders,Spatio temporal control of eosinophil functioning in allergic lung inflammation
+281,5eb1b14e-aa5c-4fb5-855a-d94a6d34f04f,"['0102', '0208']",Research Foundation Flanders,Predictive orchestration and distributed networking for low latency applications in future G Networks
+282,a3ca51b9-52ae-401d-9e4e-c8f24db94fa6,['0106'],Research Foundation Flanders,Investigating O methyltransferases potentially involved in lignin biosynthesis in maize
+283,9e4d3124-fb5f-4c7f-8524-7ee0b42fb9e9,"['0106', '0306']",Research Foundation Flanders,A novel era in proteomics based protein PTM discovery through deep learning approaches
+284,f25c9134-56c6-4c42-bfd2-6e7e5ceb0576,"['0505', '0501']",Research Foundation Flanders,The impact of the prison environment on drug use in women
+285,c45f9795-019d-4016-a057-dfd90909e297,['0205'],Research Foundation Flanders,Innovative scaffolds with enhanced vascularization and patterned cells for bone tissue engineering
+286,f0cb3fc3-d01e-42d9-a734-89ea5c948edb,"['0104', '0106']",Research Foundation Flanders,Conformationally locked G decoy oligonucleotides for selective telomerase inhibition and development of a nucleic acid based anti telomerase PROTAC strategy
+287,73a24ee9-a0b7-40a3-a2b0-7852971090dd,['0101'],Research Foundation Flanders,Advances in the theory of Beurling generalized primes
+288,01b02eab-99d7-4f10-bd16-f87d44106cea,"['0301', '0106']",Research Foundation Flanders,Identification of the molecular drivers of ab vs gd T cell development at single cell resolution in human
+289,7804620e-05bf-43ad-abec-9d58b1aaaba7,['0106'],Research Foundation Flanders,Charting the functional components of the diverse sexual life cycles in diatoms
+290,0e4950e3-6267-4941-8a7d-a408b2293a73,['0304'],Research Foundation Flanders,One size does not fit all from a common approach towards performance specific speech intervention and long term learning in children with a cleft palate
+291,250462ee-c98a-4942-b6f3-e5c76ffd97c3,['0103'],not specific,Entanglement and complexity in holography
+292,efe5b710-7828-4437-bf9f-83f8b6622264,"['0101', '0208', '0202', '0103']",not specific,Chirplet based framework for the efficent computation of numerical diffraction in complex systems
+293,e7c01d8f-2a35-4663-99f4-d3ec3abf24c4,['0102'],Research Foundation Flanders,SBO Project with primary societal finality Serendipity Engine towards surprising and interesting urban experiences
+294,8e9a1990-c59e-4adf-9803-ef4352d6dd68,"['0202', '0203']",not specific,Measurement based Interference Analysis in Massive MIMO Systems
+295,65ae315e-0e2b-4e7e-b141-526f265c021a,['0303'],not specific,Accounting for future lives in Health Technology Assessment 
+296,e779b9ac-9783-43b1-a8a5-be2e41f0c3f4,['0502'],not specific,Strengthening Entrepreneurial and Networking Capacity of Cocoa Farming and Processing Households in Bicol Region Philippines
+297,1805f05b-6094-4857-a561-e36d56a9e560,['0504'],Research Foundation Flanders,Governing Postgenomic Life wearable devices and the practices of policymaking and regulation
+298,469c1804-8acf-425d-8010-8e28e5e70122,"['0302', '0304']",Research Foundation Flanders,Effectiveness of an eHealth self management support program for persistent pain after breast cancer treatment a pragmatic multi centric randomized controlled trial 
+299,1b16152f-5ec4-41b2-a1e8-2447847f8893,['0101'],Flemish Government,Initiation of a unified program for Tauberian theory
+300,18e41aec-2929-4ac1-952e-d7f7edb076f4,['0602'],not specific,Storytelling and Young People Coping with Crisis Oral Narratives and Crisis Management in Kenya and Ethiopia
+301,2ba0108b-7a27-4b0d-a35c-7bd77bead8e5,['0502'],European Commission,Smart Protein for a Changing World Future proof alternative terrestrial protein sources for human nutrition encouraging environment regeneration processing feasibility and consumer trust and accepta
+302,eb766ebb-c1be-41a3-b1de-9801bcd4a79b,"['0206', '0202']",Flemish Government,Adaptive robust control of general anesthesia with event based surgery mapping and variable patient models
+303,0c84a6a9-10ae-4eb7-8a3e-1f7c33fb8e66,['0103'],Research Foundation Flanders,Hybrid organic inorganic optically active extracellular matrices
+304,bfd37cad-eb61-41cc-a0dc-a877290e6f48,"['0202', '0203', '0208']",not specific,Advanced Multibody Modelling of Gears for System Level Dynamics of Mechanical Transmissions Development and Experimental Validation of Transmission Error and Root Strain
+305,ff91636b-703f-4d85-80ce-b313dcbdd5ca,"['0303', '0305', '0306', '0401']",European Commission,Sustainable Plant Protection Transition A Global Health Approach SPRINT 
+306,f3551f93-fe80-402f-b907-d8cb203adc18,"['0106', '0306']",Research Foundation Flanders,Dynamics evolution antimicrobial properties of human vaginal lactobacilli 
+307,9a790d0f-afaa-4578-8a26-1c7ac5815408,"['0101', '0102', '0203']",Flemish Government,Control theoretic foundations and design tools for periodic time delay system
+308,d105d5b4-cb92-4d21-be29-ac21a3bee35f,['0103'],Research Foundation Flanders,Ab initio simulations of next generation devices made of D or topological insulator materials
+309,77d02666-c425-4408-8864-0b28bf56d958,"['0506', '0603']",Research Foundation Flanders,Hybrid Democracy Combining Elections Sortition and Direct Democracy
+310,a4721b1c-bd08-4278-ae7a-fed9b8f30718,"['0104', '0204', '0205', '0299']",Research Foundation Flanders,Rational Design and Synthesis of New ABC Family Zeolites
+311,e40f679f-6f2d-42a6-9cbb-836d13a565eb,"['0102', '0508']",Research Foundation Flanders,Behavioral change Interventions Made PERsonal engagIng lOng term
+312,66e38ddf-7e2e-4619-9772-75cf1ddf42a3,['0205'],not specific,Innovative NDT Techniques for Aircraft Maintenance Acoustic Fuel Tank Monitoring and Thermal Fuselage Inspections
+313,4dde2f5b-b46e-4caf-aeaf-70c35b17131c,['0503'],not specific,The sound of abnormality An acoustemological approach on the first educational initiatives for children with mental disabilities in Belgium 
+314,830cb661-c9f2-4b03-8121-e68b1621c28b,"['0106', '0302']",Federal Government,Uncover and compare the human immunopeptidome of Leishmania across the clinical spectrum 
+315,4cf30e14-9dba-47b6-89ee-374ffb98ce6e,"['0102', '0202']",Flemish Government,Multi Scale Radio Channel Modeling and Prediction for Reliable Wireless Air to Ground AG Communications 
+316,133650f7-a686-4feb-bf26-6f0e38e18dcc,"['0599', '0699']",Flemish Government,Culture Talks 
+317,9e6cf4bf-b9ee-4bf0-804a-473fc56e8d1d,['0506'],Flemish Government,COVITRU
+318,8e9134e2-732a-4c93-aa68-f07a11e3feb7,"['0104', '0204', '0401']",European Commission,Plasma Reactors for Efficient Fertilizer Production Applied in a Real Environment PREPARE 
+319,79586d79-d166-4284-9103-1b8066c179ba,"['0301', '0305']",Flemish Government,Control of sleeping sickness and leishmaniasis from an insect bite to effective treatment 
+320,d8db267e-ba45-4068-bf9f-f2ab432b1b4f,['0106'],Flemish Government,Launch of a microbiome service platform 
+321,da188502-b1c7-4d5a-9917-34b1ec865388,"['0106', '0306']",Flemish Government,De novo prediction and characterization of the mobilome of Lactobacillales 
+322,6b24e025-2772-4b20-a261-e158007b99c0,['0305'],European Commission,Ferroptosis Inhibitors For Neurodegenerative Disorders NeuroFerro 
+323,cedde79c-2339-4cd0-9582-e084d8403f4c,['0106'],not specific,Elucidating the development of biological optical nanostructures
+324,d7193511-3709-4441-960a-287d876a2adc,['0504'],European Commission,Singleton trajectories Understanding new life course paths of young adults SINGLETON 
+325,6414e28c-7324-4e6e-91ba-11008910224d,['0603'],European Commission,Risk and Resilience in Developmental Diversity and Mental Health R D MH 
+326,eba313bd-573f-431f-8cfe-a5cdcbe6bc36,['0302'],Flanders Innovation & Entrepreneurship,Urine as a liquid biopsy for early stage cancer detection 
+327,5eaf5496-ba71-455f-bd3e-b0f3939cc404,['0104'],European Commission,Border detection of illicit drugs and precursors by highly accurate electrosensors BorderSens 
+328,7cc003c8-d55b-4604-8faf-e86676b8bd67,['0301'],not specific,A blueprint of citrullination in inflammation
+329,cbed0e8f-4440-47de-bd59-b8c8e78a3b48,['0106'],Research Foundation Flanders,Complex dynamics and regulation of the plant energy sensor SnRK 
+330,7e4c9355-f873-4fa6-983b-d22fcbcd6bd1,"['0503', '0303']",not specific,Addressing alcohol use in general practice a community oriented approach
+331,a986bc69-4c16-49ee-9419-2bfc8208b749,['0104'],Flemish Government,Molecular self assembly under D lateral nanoconfinement Capabilities and prospects
+332,3d4e6f83-45b3-4509-90e2-0d51dbfa3c09,"['0202', '0103']",Research Foundation Flanders,Photoalignment templates for chiral liquid crystal lenses and photonic components
+333,128ec594-3baf-4300-96be-56089701cbb2,"['0202', '0203']",not specific,Data Driven Uncertainty Representation for Scheduling Flexibility in Energy Systems
+334,178f9e54-bf83-4f38-8e95-e558bd577551,['0302'],European Commission,Disease and vaccine monitoring based on non invasive genital tract liquid biopsy sampling URISAMP 
+335,d5d2d354-908d-4549-98a5-9c6024b6a5da,"['0104', '0304', '0401', '0205', '0206', '0207', '0106', '0301', '0306']",not specific,Isolation and Characterization of Mutants with Altered Sensitivity to the Natural Antimicrobial trans Cinnamaldehyde in Listeria monocytogenes
+336,76416a57-3b43-48ec-91c4-dd964baa61c0,['0302'],not specific,What causes cognitive decline after treatment for breast cancer A multiparametric neuroimaging study
+337,0e79ebac-e9c7-4a68-a6e2-90351780c200,"['0203', '0208', '0202']",Research Foundation Flanders,CTRL schemes merged with eXplainable AI for t h rustworthy control of physical dynamic systems CTRLxAI T H RUST 
+338,96b10c16-dab3-4e55-a850-ee51becb3ffa,['0101'],Flemish Government, elliptic boundary value problems
+339,28a6fcc5-eeb3-4eaa-b8ef-4a2f781494af,"['0501', '0603']",Research Foundation Flanders,Understanding Self Deception 
+340,64639972-255d-4b69-8cbb-25f1045b84d1,"['0106', '0301']",Flemish Government,Heterotypic aggregation of A with disease relevant proteins in Alzheimerdisease
+341,3ec2c899-90d6-4d0d-9e4b-f601cf7c85f8,"['0303', '0502', '0504']",Research Foundation Flanders,Leaving no one behind bridging the gap between vulnerable populations and the primary healthcare system through reverse innovation
+342,c17bfafe-55e3-46f2-90dc-1b43202158b3,['0101'],Flemish Government,Special Research Fund Professorship in partial differential equations
+343,d4f76ae8-15fe-4976-9b9b-6ad71d531e03,['0202'],not specific,Innovationmandate Spin Off PoweRing A gearbox for the next generation robots
+344,c57d7344-b693-4def-914c-513571892fe6,"['0306', '0302', '0102', '0106']",Flemish Government,Digital pathology as a proxy for molecular profiling of prostate tumors
+345,9c1db95e-ff71-4c6c-8ef5-f200fd5a1687,"['0302', '0106', '0206', '0301']",Flemish Government,IMAGIBRAINDD IMAGIng assisted human BRAIn organoid engineering for studying and treating NeuroDevelopmental Disorders
+346,d0ed4979-d853-4402-a7c5-72d8ffa4b99e,"['0103', '0205', '0106', '0206', '0301', '0306']",Flemish Government,Mechanobiology control of immunogenic cell death by bio polymers for cancer therapy
+347,2077ff66-7c28-48c7-a053-a3b4d3200744,['0206'],not specific,Development and external validation of a D Convolutional Neural Network for automated detection of vertebral fractures in CT scans
+348,f531b364-6094-4fb4-b64f-300af6d62cd5,['0104'],Research Foundation Flanders,Homogeneous and heterogeneous metal oxo clusters as a new generation of artificial metal peptidases
+349,369e246b-b6e7-4184-94de-a4cfdc6978a9,['0102'],Research Foundation Flanders,A novel paradigm for Precision Medicine sparse non linear Neural Networks for end to end Genome Interpretation
+350,99218f0d-e79f-4ecc-95e5-e7afaa19c71d,"['0602', '0603']",Research Foundation Flanders,Sixty Donatist Sermons from theCentury A Critical Edition and Content Analysis of the Vienna Collection 
+351,9856dd4a-3f5c-4a61-8fc7-321ecd237728,['0106'],Research Foundation Flanders,Molecular mechanisms underlying peroxisome mediated changes in the cellular hydrogen peroxide signaling network
+352,0abd6f2c-5da5-4189-84d3-79ee6b2987d8,['0602'],Research Foundation Flanders,Transnational collaboration in contemporary refugee literature authorship textual effects comparisons
+353,32965169-4110-4cb9-bbf7-8fbbbb2e472c,"['0103', '0203', '0299']",Research Foundation Flanders,An efficient framework for reliable calibration and uncertainty estimation of novel self consistent cross field transport models for plasma edge simulations of fusion devices
+354,539f1a27-24f7-478e-ab2e-11f00ec3053a,['0101'],Research Foundation Flanders,New universal dynamical determinantal point processes associated with products of random matrices
+355,f549dc44-c7a1-4461-8900-d6ba92a5bdce,"['0104', '0106', '0301', '0305']",Research Foundation Flanders,Profiling of protein depalmitoylation during adipogenesis using activity based probes
+356,4df15cca-95f9-47ca-925d-065f8d8ccc0a,['0502'],Research Foundation Flanders,A new way of matching skills and work inside organisations Assessing the viability of intra organisational gig platforms
+357,7d3e9845-c879-45eb-9c47-ded9fe35f367,['0508'],Research Foundation Flanders,Growing up in the age of constant connectivity Elucidating the dynamic interplay between preadolescents online practices and their identity development
+358,191332ce-33b0-4e1c-98d4-e7355f330314,"['0101', '0102']",Research Foundation Flanders,Connections between edge colorings factors and flows in cubic graphs
+359,88ab7ce7-4d5a-4fa8-ad5c-5031b5b7e2b0,"['0103', '0205']",not specific,Design and Characterization of Quantum Devices for Superconducting Qubit Implementation
+360,4ad66b29-560f-4790-880b-af6b3744eb0d,"['0207', '0106', '0204']",Flemish Government,Cofunding core facility HTS for SynBio
+361,b0b221ea-da96-4ef3-acb5-cf06761cf91f,"['0302', '0305']",Flemish Government,A mucin mRNA isoform based biomarker assay to improve treatment response in patients with inflammatory bowel diseases 
+362,08e61e3c-258d-41b1-bbb1-5054f670a290,"['0206', '0202']",European Commission,Adaptive Multi Drug Infusion Control System for General Anesthesia in Major Surgery AMICAS 
+363,8903f205-740c-45c5-a51d-8784f33e9ed8,['0306'],not specific,FLASH radiation therapy to improve the therapeutic management of breast cancer by reducing radiation induced skin soft tissue lung and heart toxicities 
+364,219b54d9-1f61-4280-884b-ffedb0208898,"['0201', '0203']",Flemish Government,Optimal retrofitting of air distribution systems in nonresidential buildings 
+365,2ce7d5b2-47ba-4a4a-80e8-50d0c09b346d,"['0103', '0299', '0301']",Flemish Government,Development of a plasma device for rapid disinfection of contaminated hospital materials Hospital Use Plasma Unit HUP Unit 
+366,25f4491f-5b49-4864-be0e-8cfb7bc7d1d0,['0103'],not specific,Damping and stability of slow MHD waves in solar flux tubes
+367,216dda72-29e3-4cd0-810c-aa879d7ea105,"['0306', '0303']",Research Foundation Flanders,Paving the way to precision medicine in childhood onset diseases A lifespan perspective on accelerated aging using the epigenetic clock
+368,e2275306-03a6-4d54-b627-5fef24af5f70,['0502'],Research Foundation Flanders,Governance of co operative enterprises under pressure A multilevel and holistic approach
+369,86ca30c8-7cec-4808-a505-e91d73aa965f,['0504'],not specific,On track with gender 
+370,29166746-4ffe-445c-96ac-ff3203a9b334,"['0502', '0504']",not specific,Integration of gender in the Paris Declaration and the Accra Agenda of Action 
+371,bf7a563d-6b18-4bfb-a5de-6b1be42e72de,"['0101', '0103']",Research Foundation Flanders,The micromechanics of DNA
+372,dc0ba50d-80cc-4ab4-904b-555840897703,['0507'],not specific,ERANET COOLSCHOOLS Realizing potentials of nature based climate shelters in school environments for urban transformation
+373,67d4f3a3-c767-4476-9224-77e06c73be9a,['0103'],not specific,Search for low charge particles with the CMS and the milliQan experiments at CERN 
+374,1cdcf246-b2a3-42bf-990c-36d4d29063e3,['0505'],not specific,PLOT Evaluation of Title Articles to of the Law of June containing various provisions on civil law and provisions for the promotion of alternative forms of dispute resolution with a view to elaborating Lot 
+375,43ee326e-6954-4b3b-92ba-f63fd99f9333,['0203'],not specific,ICON Project OPTIMESH
+376,1243cd2c-39a7-46f8-8d8c-de5443fc978d,"['0106', '0199']",not specific,The cyanobacterium Limnospira carbohydrates production photosynthetic activity and biomass harvesting
+377,42448095-1a11-4944-9169-2f12b31c4d07,"['0203', '0205']",not specific,Towards robust dissimilar joining and overall process monitoring in resistance welding
+378,74460320-4199-43ec-9c8e-5904b2cabaf2,"['0205', '0206', '0207', '0106', '0301', '0306']",Research Foundation Flanders,Development of a new therapeutic strategy for the treatment of MLL rearranged acute leukemia
+379,80c4092d-4d2b-4644-abcb-eb2415be0030,['0106'],Research Foundation Flanders,Elucidation of the molecular mechanisms by which the phytohormone jasmonate triggers the concurrent remodeling of the plant endoplasmic reticulum and reprogramming of plant metabolism 
+380,2a7b9cfd-ce61-4996-9b7e-bcc685b39d94,['0301'],Research Foundation Flanders,Investigating the role of astrocytes and noradrenaline as critical regulators of neuronal circuit excitability 
+381,4d0faf6e-5a68-4711-83e1-e65935ce96b8,"['0301', '0306']",Flemish Government,Elucidating the role of the Respiratory Syncytial Virus RSV peptideand N glycans in this peptide in protein structure and protective antibody responses 
+382,f6e3f341-f76e-49f3-bfab-2ce298092495,['0101'],Flemish Government,Evaluation complexity of non Euclidean optimization methods 
+383,c9c5b24c-62ce-4811-a996-2386942ff39a,"['0101', '0203', '0206']",Research Foundation Flanders,Improving eardrum surgery by understanding sound power flow in the eardrum through new computer modeling methods 
+384,bffd05f1-9bbb-4188-9596-cd8817d97f25,['0402'],not specific,HOOF BASED MULTIPURPOSE ACTIVITY TRACKER FOR EQUINES
+385,e5035d6f-f79d-4bfe-8431-8ac4b9a7cac6,"['0501', '0603']",Research Foundation Flanders,Understanding virtual reality through ongoing embodied imagining 
+386,0fa49c39-ac3b-452e-9346-fa5708d6a52a,"['0206', '0106', '0104']",Flemish Government,Triple bioassays for dual purpose Doping Control Cancer Research
+387,d3fef42a-3b23-4fd1-af2b-57248295f6cc,"['0204', '0502']",Research Foundation Flanders,GOPRESUSE Towards generic optimizations and prospective evaluations for the design of sustainable disruptive process technologies and resource management systems by connecting statistical entropy economic and environmental aspects 
+388,d3fe91b3-5ae4-463a-b249-11a92c1b6400,"['0502', '0504']",Research Foundation Flanders,Rights based versus benevolent solidarity in European welfare states the case of food banks and minimum income protection 
+389,8deb2692-cecc-444a-96e7-33df1b61ecc4,"['0106', '0302', '0306']",Flemish Government,Investigating the biomarker potential and pathological role of neuronal and bacterial derived extracellular vesicles in ParkinsonUdisease 
+390,8b0495a2-b138-4492-8168-215cf9a6b743,"['0601', '0507']",Flemish Government,Mountains Mobility and Memory An interdisciplinary approach to long term patterns in high altitude land use in the Apennines Italy during the Metal Ages
+391,f3bc66c6-7f77-4bca-a883-daee5697a1e5,"['0202', '0102']",Flemish Government,Photonic Network on Wafer for Multi Tile GPUs From Architecture to Hardware Implementation
+392,5566fa10-808b-4296-96ca-8d6fa6c33c50,"['0103', '0104', '0205']",Research Foundation Flanders,Three dimensional investigation of the atomic structure of MOFs by in situ transmission electron microscopy to understand diffusion and degradation mechanisms
+393,17985b65-d705-48de-a13f-4ec47517c7ff,"['0301', '0306']",Research Foundation Flanders,Restoring the balance in coagulation to improve the outcome of Staphylococcus aureus infection
+394,f93c0c6d-a879-4521-9489-fbb3e77058c8,['0103'],Flemish Government,Massive star asteroseismology with K and TESS
+395,f5a4d670-337f-4e51-96bc-30800ee598d0,"['0303', '0301']",Federal Government,Perinatal depression in pregnant mothers From prevalence to prevention A precision medicine approach within a public health perspective
+396,beac9843-5cc8-4565-add7-6f04f1813ded,['0104'],Federal Government,SiONASilicates by Ordered and Non ordered Assembly
+397,f33589e6-7082-49a3-8f47-f814b24bb1f2,"['0104', '0103']",Flemish Government,Metal doped carbon clusters as model systems for the chemical storage of hydrogen
+398,23ff4bda-d3dc-49d0-b001-218195c77b21,"['0506', '0505']",European Commission,Assessing the impact of Urgent Measures in protecting at risk detainees in Latin America U IMPACTUMU 
+399,484faafa-dad3-4364-891d-3af1e5e973ab,['0106'],not specific,What drives cooperation Proximate factors explaining the variability in inequity aversion and prosociality in captive Bonobos 
+400,7bdcafb2-d4ff-4bba-a5a7-1e59d191334c,"['0303', '0501', '0502', '0504', '0507']",European Commission,Women Water Watch WwW Mapping water quality from the river to the glass 
+401,d48bc0c3-a17a-476f-9959-a6df15ab16b2,['0506'],Flemish Government,PROTRUST 
+402,293d8e10-a884-4a12-a207-0742a0e2d590,['0301'],Research Foundation Flanders,Precision genomics in neurodegenerative brain disease from patients to small model organisms and single cells
+403,2c0f82a9-545d-48f4-bfad-62700cf042b5,['0501'],Research Foundation Flanders,Psychopathic Personality Among Youth conduct Problems
+404,0032e214-ca97-4d8c-a486-a0b52654abdd,['0301'],Research Foundation Flanders,Study of Z RNA in antiviral programmed cell death and immune dysregulation
+405,b3a52727-5c13-4bf1-b688-3e54c86fade5,['0106'],Research Foundation Flanders,The role of host microbiome interactions in the efficacy of antimicrobial agents
+406,8a8fab80-2e20-4230-9e88-944363342a46,"['0101', '0102', '0501', '0502']",not specific,An Interaction Driven Perspective on Digital Transformation and Managerial Guidelines
+407,ea88172e-c8d6-4581-ae6c-c141323a7856,"['0301', '0106']",Flemish Government,Intraneuronal resource allocation a key for functional circuit restoration in the central nervous system
+408,1fb40ec1-cc56-473c-a2be-be2f7cc58702,['0102'],Research Foundation Flanders,Vagueness and uncertainty modelling
+409,008e7f63-e727-4c8e-98a1-daa80a89f89e,"['0104', '0202', '0205']",Research Foundation Flanders,Microsen Elucidating anti biofouling on nanoporous gold surfaces toward microneedle devices for continuous drug sensing 
+410,2e31dc09-6a38-4a1e-99a5-365ddeb85d93,"['0301', '0501', '0603']",Research Foundation Flanders,Emotion and mental imagery 
+411,ccfff481-b1b1-47df-aa86-3296fed403c9,['0506'],not specific,Communicating Populism on Social Media Comparing Facebook Communicative Patterns of Parties and Politicians in Taiwan and Germany
+412,9c03e28a-e55c-4c05-8c37-36697e5c651f,"['0102', '0501', '0602']",Flemish Government,InterStylar A Stylometric Approach to Intertextuality incentury Latin Literature 
+413,8b5d6aec-26d3-4365-95bc-0df8e29c686c,"['0508', '0102']",not specific,Scholarly Communications in the Decentralized Web
+414,1caf8594-8aa3-42f9-aac2-ba2192ccdcfa,"['0699', '0601']",Flemish Government,Mapping Ghent phase 
+415,058cdc1a-4649-4376-9a5e-7af8e8e8b1c2,"['0106', '0199']",not specific,Developing a multiphysics computational model to support thermosonics for efficient defect visualization
+416,be2dddc0-db58-4fca-b931-be6ad114b17f,"['0102', '0106', '0208', '0301', '0303', '0306', '0101']",not specific,Hierarchical Models and Bayesian Structural Equation Models with Application in Health Services Research
+417,3ccdd1d6-59f1-405d-bf80-e520697fa88c,"['0106', '0206']",Research Foundation Flanders,HavePhAIth Human phage therapy against the ESKAPE pathogens using AI
+418,5d7d4460-9c0e-4dce-bfb1-8e321ca3ad62,"['0104', '0106', '0204']",Research Foundation Flanders,Steering the colloidal state of oat proteins for food foam stabilization
+419,f4870dd4-036e-4e06-99e4-b329d5cb4770,"['0501', '0602']",Research Foundation Flanders,Emotion language in context A longitudinal multi modal investigation of meaning making in everyday life and its association with expertise and well being
+420,9c5cddac-eb0a-44eb-b332-4dc90ee37919,"['0204', '0205']",Research Foundation Flanders,Zeoliet katalysatoren voor CO reductie naar dimethylether
+421,bbb56b33-f532-4f75-a669-4ce085bd8799,['0102'],Research Foundation Flanders,MPC based post quantum zero knowledge proof systems with fast verification
+422,3c615563-5e7b-411c-90fc-41d603ba64d7,"['0101', '0102', '0103']",Research Foundation Flanders,Beyond the Treachery of Images training an algorithm to turn astronomical observations into probabilistic models
+423,b5c322b2-e600-4e3f-88c4-15e54e9ca314,"['0104', '0106', '0401']",Research Foundation Flanders,Unravelling the impact of sourdough fermentations on the viscoelastic gluten network and the aqueous phase in a wheat wholemeal dough system in relation to gas cell stability
+424,b08ad48a-e846-4d12-80ca-1bda96b8f79c,['0602'],Research Foundation Flanders,Biofictions of Border Crossing A World Literature for Outsiders
+425,a4427532-cea2-4ef7-aaac-1fbe022c5d58,"['0501', '0503']",Research Foundation Flanders,Rethinking thinking about your thinking Identifying the role of metacognitive monitoring in academic learning through cognitive psychology methods in educational research 
+426,4355fe4a-6c38-41f9-9929-66e2849ee95e,['0506'],Flemish Government,Determinants of Candidate Turnover in European Established Democracies with a List PR Electoral System Discovering The Secret Garden of Politics
+427,88f1b84d-e739-45b0-9a4e-c555356dd210,"['0302', '0303']",Research Foundation Flanders,MACSiMiSE BRAIN Metformin Add on Clinical Study in Multiple Sclerosis to Evaluate Brain Remyelination And Neurodegeneration
+428,6e60ba65-6a0f-4376-a243-0d9dea9910d3,['0501'],Flemish Government,Psychological coping with the legacies of collective violence A multi site qualitative exploration on the interacting role of coping within social community and family relationships after political violence in Per 
+429,63568eed-a7e2-400c-bef7-1c2bb3a4214d,"['0306', '0206']",Research Foundation Flanders,Phase spatial beamforming for decoding motion onset visual evoked potentials
+430,41e58acd-813a-4a4f-9320-3291ae48db45,['0603'],not specific,The Theological Formation at the Seminary of BrugesBruges in theCentury
+431,e02e7477-ecde-4041-9b48-219ef486f8ff,['0101'],Flemish Government,Classification symmetries and singularities at the frontiers of algebra analysis and geometry 
+432,c1244c11-0917-452f-ab3a-42ed74ff105b,"['0106', '0208', '0301']",Research Foundation Flanders,Interactive and intelligent cellomics platform 
+433,b7bdc6cf-7730-4b09-a0f0-ae05ea769f4b,['0505'],Flemish Government,Extra contractual cost recovery by public authorities
+434,6fdb1093-a2d0-4a36-b470-b8fade5a8eb8,['0104'],not specific,Palladium Catalyzed Cascade Cross Couplings towards Complex Heterocycles
+435,2e8e34c9-faa7-41ab-838a-33b939ec3142,['0304'],Flemish Government,Environmentally sustainable governance in sports a provider and consumer perspective
+436,081dd2fa-ef3c-4137-a92f-c358099d978d,['0501'],Flemish Government,Towards a broader understanding of job crafting A self regulation perspective on crafting in new work contexts
+437,4a7ddcc4-57ec-4f75-a749-906d5ee3d301,['0505'],Flemish Government,Legal analysis of the Belgian legal framework on assisted reproductive technologies Embryonic stage teething problems and implantation of an adult legal framework
+438,17365ee0-5259-47d4-8553-d6a1c8bab96d,['0502'],Flemish Government,The consequences of incentive program design on employee behavior
+439,26276aa1-7dce-443e-bae0-38d58087b0c9,['0202'],Flemish Government,LED and laser diode based illumination systems with a tuneable radiation pattern
+440,1a975f00-a45b-4671-99f2-b082d4b04442,['0203'],Flemish Government,Design and Modeling of Inverter Control for Fault Behavior and Power System Protection Analysis
+441,b3ee969c-0c1a-43ae-8904-dcc7e44872dd,"['0101', '0102']",Flemish Government,On copula based conditional dependency concepts and global dependency measures
+442,29165451-cd0a-4adb-9296-5c4bf5056469,['0205'],Flemish Government,High Performance Polymer and Ductile Metal Fibres to Improve the Translaminar Fracture Toughness of Fibre reinforced Composites
+443,c64cb0cc-c1f9-4100-a4aa-e11af81d726c,"['0401', '0502']",not specific,Labelling food for a demand driven transition towards sustainable consumption
+444,409452ed-559f-47d7-8148-f8ce003a1bce,['0101'],Flemish Government,Tensor decompositions and Riemannian optimization
+445,b082e98d-6475-4b6f-a22f-9c7abbc15b48,"['0101', '0102']",not specific,Symmetry at Many Levels Exploiting Symmetry for Fast Probabilistic Inference and Counting
+446,5211f4b3-9abe-498e-8d63-27e87acd6a26,['0104'],Flemish Government,Quantum Rules for Nanoclusters 
+447,33ba29e3-3988-4185-adfb-50e614490d5e,['0104'],Flemish Government,Insight into the selectivity of metal substituted polyoxometalates as a novel class of artificial proteases combined experimental and theoretical approach 
+448,ac32845a-526d-4c0b-882c-0bb16f3e4ab8,"['0301', '0306']",Flemish Government,Relevance of an altered epithelial function in gastrointestinal and non gastrointestinal disorders
+449,aa643849-6303-420f-a0c9-bd5ddadd7a23,"['0401', '0402']",Flemish Government,Host pathogen interactions Leveling the inter individual diversity of the immune system in livestock by add on immunotherapeutics
+450,f21d7b45-562d-426a-9fb7-faed937bff0e,"['0304', '0306']",Flemish Government,The INTERACT project CannabINoid recepTors as kEy playeRs in skeletAl musCle plasTicity
+451,461cae0f-ba06-4a3b-a876-e3cca4a79682,"['0103', '0104']",Research Foundation Flanders,Advancing photocatalytic water splitting technology by reliable in silico design of the catalysts 
+452,f761cd1e-a86c-4cd6-81bb-e178e177178d,['0202'],not specific,Hybrid RF acoustic Ranging for Energy Efficient Indoor Positioning
+453,d23889dc-201a-48ae-86cd-92e3aed155ec,['0202'],not specific,DC Grid Protection Aware Planning of Offshore HVDC Grids
+454,7e1b3ea9-8ffa-4f32-8beb-7f6b36f75dfb,"['0202', '0299']",not specific,Advancing the Mechanisms and Use of Practical Secure Multiparty Computation
+455,a82a9ac5-8093-44ae-9b22-52433016d441,['0205'],not specific,High Volume Replacement of Cement by Non Ferrous Metallurgy Slag and Impact of Limestone Fineness and Grinding Aids
+456,5012aa17-6824-4a03-841a-cfe2f2c859f1,['0604'],not specific,Brothers in Spirit Czerny and Liszt interpreting Beethoven
+457,6e7ebb1d-2835-4f10-8451-94e4f8f9dc62,"['0306', '0301']",Research Foundation Flanders,An integrated approach to unravel eosinophil function in chronic eosinophilic disorders
+458,1fedca61-c519-4512-b3c2-de175b2e0d2d,"['0203', '0101', '0204']",Research Foundation Flanders,Turbulence closure models for plasma edge simulations of magnetically confined fusion reactors 
+459,0b29d4d8-a1b8-454c-a099-e34390fc99f6,['0202'],not specific,Uncertainty Estimation in Machine Learning Applications in Neural Network Compression and Calibration
+460,5465fc4d-b0e4-47e6-89be-b4cff2c77bf1,['0301'],not specific,The role of fetal brain magnetic resonance imaging in current fetal medicine
+461,d5c2e669-c016-4eb6-8b3b-c48470df8727,['0604'],not specific,Mediation and object specific creative processes inexperimental sound practices
+462,acbe6303-90ab-4b98-93e3-3f396e500d46,['0604'],not specific,Composing with piezoelectric microphones
+463,a8febed4-a5c9-499b-b418-e7f661369e7e,['0604'],not specific,Beethoven and his Foreign Pianos Declassifying the Classics Project One
+464,9204e663-525d-41b4-a08c-568615280dae,['0604'],not specific,Declassifying the Classics Rhetoric Technology and Performance 
+465,c20b15fa-7aa8-4b09-acc9-f6ca417496d0,"['0504', '0604']",not specific,Time and Technology in BeethovenPiano Sonatas
+466,1f14806f-b163-467c-9f21-acaa69b4677a,['0604'],not specific,Re Writing for the Salon The Practice of Arrangement for Accompanied Piano in theFirst Half of the Nineteenth Century
+467,5c621c14-7dea-4bd3-9359-4b036b5576d8,"['0603', '0301', '0505']",not specific,Ageism in Prison
+468,a59cf5d4-c573-4ee2-a0f8-c9b0ae7daa86,['0503'],not specific,ALO Adult Learners Online Blended and Online Learning in Adult Education and Training ALO 
+469,658cc06b-ba1d-4b28-bedc-d340cffd5fd2,['0301'],not specific,The impact of chromosomal abnormalities in hPSC derived retinal pigmented epithelial cells
+470,5e88c814-8e49-4ab3-afb8-29a88d904870,['0505'],European Commission,Legality Attentive Data Scientists
+471,b5e4e2eb-c3ed-455d-b346-9c757865e0c5,['0205'],Research Foundation Flanders,Additive Manufacturing for Self Healing Robotics
+472,0e69dd73-cd55-46f6-9773-d54a6873b4cb,"['0305', '0304', '0303']",not specific,Can food additives cause liver damage A mechanistic in vitro modelling study 
+473,617640cf-7111-4860-b0fa-8a95ec0543ce,['0301'],not specific,Developing and evaluating innovative interventions to improve Advance Care Planning ACP towards a comprehensive multistakeholder model
+474,73801390-f4dd-4739-89f9-413849c0b76a,"['0305', '0104']",not specific,Combination of Molecular Dynamics and Quantitative Structure Enantioselective Relationships QSER models to elucidate enantiorecognition mechanisms on polysaccharide and antibiotic based chiral selectors
+475,b84a3b3e-b784-4b7d-bcd2-fa3deb3c9ce0,"['0303', '0301']",Research Foundation Flanders,Trajectories of social connection and their relation with end of life outcomes of older people with cancer International populationbased study and longitudinal feasibility study
+476,b092d218-eb82-4749-9370-91dd140b8777,['0103'],not specific,Uncovering the higher symmetries of quantum fields and branes
+477,01dae41a-dc51-4800-a880-30ceb4e8b660,['0508'],not specific,EDMO Belux Belgium Luxembourg Research Hub on digital Media and Disinformation
+478,4cc18267-1b93-425f-a9ed-f4901b122299,['0103'],not specific,Quantum complexity quantum entanglement and the emergence of spacetime
+479,a44c13fb-bfdf-4664-897e-5f77259e30c4,['0202'],not specific,OOI Project ECSEL HiEfficient
+480,f11d7e32-79fb-47c6-b8ca-80c3f802fc29,['0103'],not specific,New physics in interplay with top quarks bump hunting in topquark pair production with two additional quarks at the CMS experiment
+481,f9a917f3-b51e-4875-8ba0-10b50e8e2ef2,['0201'],not specific,PHD Savebxl From demolition to preservation A paradigm for building in Brussels
+482,1dfcace6-2632-4884-8a39-7741b6f77544,"['0104', '0204']",Flemish Government,BruChrom Breaking Boundaries in Chromatography
+483,d522ea07-19b3-4042-882e-445e5bf2bd7d,['0503'],not specific,SRP Groeiers Socially inclusive ICT based adult learning
+484,c6d32dbf-348b-4486-8f13-8a34c0a48fe7,"['0104', '0301']",Research Foundation Flanders,Understanding the structure function and mechanism of Synaptojanin in the context of neurological disease
+485,377490ac-0743-47dd-add9-74234fb415fc,"['0103', '0301', '0204']",not specific,The optical nanomotion detector a microfluidics based instrument to search for extra terestrial life human microbial infections and habitat contaminations in space
+486,df427c5a-4e69-4065-ad69-6b6a95e65c09,['0602'],not specific,Metaphors learners live by metaphoric anaphora resolution in L Spanish
+487,5f26dfc1-823b-4c39-85a5-06a1c2dedfc9,"['0102', '0105', '0201', '0202']",not specific,Deep learning for quality control of crowdsourced data and seamless weather forecasting 
+488,88295dd8-1e3a-4fab-97c1-db8e18dc9264,['0201'],Flemish Government,IOF POC Project SMART TOWERS Low cost IOT monitoring solution combined with a cloud data platform for structural integrity monitoring of civil structure such as transmission towers 
+489,1c82ed1d-bc6a-4f4a-ba07-5d066d036778,"['0501', '0603']",not specific,Responses to NewtonMathematical Experimental Paradigm inCentury Philosophy
+490,e04d95ce-e7ad-4dbb-9e71-bf2db172e062,"['0301', '0304']",Research Foundation Flanders,Can months strength training counter chronic low grade inflammation and improve immune function in older persons 
+491,e07d0a59-7dd8-47e8-82c3-5b292b200c9e,"['0201', '0505', '0601', '0604']",not specific,Construction History Above and Beyond What History Can Do for Construction History
+492,c80a4e32-c7d4-4ca2-9af0-946204295139,"['0301', '0106', '0305']",Research Foundation Flanders,deCiphering bacterial peRsIsTence of Individual Cells down to Atomic Level
+493,a28e2a2b-adc7-4ba2-af39-9449794ca9b7,"['0105', '0208', '0103']",Research Foundation Flanders,CycloNet European Cyclostratigraphy Network
+494,ce1c82df-e836-4b38-99f5-d376e8e03269,['0203'],Flanders Innovation & Entrepreneurship,EMerging TECHNOlogies inMultiport Systems forEnergy Efficient Drivetrains
+495,cde7c0d5-d296-4499-bc05-dfb544f3bca1,['0301'],Flemish Government,The Exploration Exploitation Dilemma as Tool for Studying Addiction
+496,c4deb017-e97c-4db0-be67-6afffca118c2,"['0306', '0106', '0301']",Research Foundation Flanders,Prepared for SARS CoV advancing our understanding of SARS coronavirus antigenic and pathogenic evolution
+497,0c368ede-8c11-4557-985c-4356a85f467f,['0604'],not specific,Before Sound Re Composing Material Time and Bodies in Music
+498,451e2eba-9d5b-4880-b1a6-614dc6ceeb19,"['0303', '0503']",not specific,Diagnosing Urinary Tract Infections in children Value of signs symptoms and point of care tests in primary care 
+499,9a13f576-f94f-4f18-b629-01e809a664bd,"['0102', '0202', '0206', '0208', '0101']",Research Foundation Flanders,Multi modal signal processing algorithms for extraction of coupled sources in combined audio and EEG recordings 
+500,de437297-3ffd-4946-b07c-952f0b9772e0,['0604'],not specific,MusicExperimentX Transdisciplinary Encounters in and Beyond Music
+501,69e1aca0-0f13-49eb-98d9-f290ff8bb54f,"['0202', '0203']",not specific,Reinforcement Learning with Knowledge Transfer for Residential Demand Response
+502,42bf0197-9176-4862-9928-da761d03de7d,['0502'],Research Foundation Flanders,Essays on work life balance and job related ICT use 
+503,c351063c-ed65-4478-8118-e322b4f3d602,"['0202', '0203']",not specific,mmWave PA Design for the Next Generation Communication Networks in nm FD SOI
+504,7e35ea65-2450-4e23-a33d-e18b7f970c08,['0503'],not specific,Peyotl Integrating Extended Piano Techniques in Repertoire for Children
+505,ec9c23b6-6b8e-4954-a9dd-13497caeb418,['0604'],not specific,HIPEX Historical Performance Practices of Experimental Music
+506,11232cb6-98c4-4fc7-b190-966ce551eb10,['0299'],Flanders Innovation & Entrepreneurship,SPICY Sugar bases chemicals and Polymers through innovative Chemocatalysis and engineered Yeast
+507,e1581b04-d69a-4000-8f0a-4eb413609b7d,"['0604', '0208']",not specific,MetamusicX Artistic research on hypermusic geomusic algorithmic composition andblockchain
+508,45cb10cd-930f-4b11-bc38-7ee791d103f0,"['0604', '0208']",not specific,Music Thought and Technology
+509,de80685d-44c1-40ae-b510-39b36e6104fa,"['0604', '0508']",not specific,Resounding Libraries Unfolding Archived Knowledge Through Artistic Research 
+510,f5f000b7-2737-450c-8e4a-cb531e26731d,['0301'],Research Foundation Flanders,Taking IBD Genes from GWAS to Function to Drug Target
+511,d14766d9-6181-4838-830e-ccdb4a50e06f,['0505'],not specific,Goal Regulation and Experimental Regulation in Environmental and Spatial Law
+512,62e41f08-1edb-4f83-b053-3f61a7af9549,"['0302', '0501']",Flemish Government,A multi modal approach to study C orf mediated disease
+513,359fb665-8f59-4b4a-9341-a6834ee2037f,"['0205', '0201']",Research Foundation Flanders,Nano chemical treatment of wood for enhanced fungal and fire resistance
+514,4cc57521-6728-40dc-a272-909ea1540f20,['0501'],not specific,Chunking in rhythm production and perception
+515,5fa5a1df-67d4-4914-9dbb-e15ce7c44992,['0504'],not specific,Emotional Interactions in Couples A Comparison Between Belgium and Japan 
+516,c06106b9-a58a-4003-bb3b-496d65d8a77e,"['0207', '0205', '0301']",Research Foundation Flanders,White light laser based confocal fluorescence lifetime imaging microscope for multi parameter D live imaging
+517,bff8cb50-9c20-47a8-a718-ab7f9c63552b,"['0302', '0301', '0306']",Research Foundation Flanders,Better estimates of hormonal exposure to improve diagnosis and treatment in endocrine diseases BEED ED 
+518,afc8e154-f424-4d96-af7c-b514f29d37a6,['0202'],Research Foundation Flanders,Context Aware Millimeter Wave Network for Interactive Virtual and Augmented Reality
+519,a0f06296-8beb-4314-9c20-cd0c6bf6f60d,"['0301', '0304', '0306', '0106']",not specific,Transplantation of spermatogonial stem cells into genetically infertile male mice
+520,3ee1f942-6f8d-4169-9f3f-edd19683dacf,['0301'],Research Foundation Flanders,Genetic dissection of the immune pathways that cause Aicardi Gouti res Syndrome 
+521,49cc2b82-928d-4216-a103-656c56f96424,"['0301', '0106', '0305']",Research Foundation Flanders,Cell Death Regulation and Role in Infection and Inflammatory Diseases
+522,be882708-5e8e-4a59-9ddf-68b03ba891a7,"['0106', '0301']",Research Foundation Flanders,Harnessing tumor acidosis and immunogenic ferroptosis for an innovative treatment of peritoneal carcinomatosis with PUFA loaded nanovesicles
+523,89edb058-5bc0-4ba5-9119-18603b1f7dd9,"['0201', '0604']",Flemish Government,On the Fragility of Empathy Drawing as Empathic Musing
+524,e7dc7d32-c840-45f0-a3db-8bb4b1e2349f,"['0601', '0604']",Flemish Government,BOF Sabbatical Kurt Vanhoutte 
+525,61e769a9-38e1-4cd6-b490-d6e6f21e376d,['0504'],not specific,School based psychosocial care for refugee and migrant young people A mixed method exploration of the role of schools and school based psychosocial interventions in shaping well being and relational processes of post trauma reconstruction 
+526,f8888512-f213-4559-82c4-be5e65a578b1,['0301'],Research Foundation Flanders,Host microbe interaction in intestinal homeostasis unravelling the mechanisms involved in the onset of multiple inflammation related diseases
+527,7447f493-f7c7-4750-93c2-2f0e53e45b4f,['0106'],Flanders Innovation & Entrepreneurship,Exploring the potential of probiotherapy for oral and armpit applications 
+528,ba343bf0-eb51-4a48-a04b-7af42561477a,['0202'],not specific,III V on Si Nano ridge photodiodes for SWIR applications
+529,a6c9a50e-12ae-4c9d-805b-bb3a4b2cbbc7,"['0302', '0305', '0205', '0103']",Research Foundation Flanders,Light for life high contrast multimodal medical imaging using inorganic fluorophores
+530,fa985b73-376b-4850-9685-12e0feba447e,"['0602', '0501']",Research Foundation Flanders,Effects of second language acquisition on cognitive development A longitudinal study
+531,dd8657cb-3635-44cc-bc9e-ea65dcc94dd4,"['0106', '0301', '0306', '0401']",Flemish Government,Mining the Musa biodiversity for drought tolerance allele discovery via integrated phenomics proteomics and transcriptomics
+532,d1023f40-dbe0-42ba-9b87-c272860a1196,['0302'],not specific,Analysis of strain targeted cardioprotection by speckle tracking echocardiogram in a longitudinal cohort of people living with HIV
+533,fc5703b0-62d2-408b-8a48-5054c7f6c768,"['0203', '0299', '0104', '0106', '0301', '0306']",Research Foundation Flanders,Area selective deposition a bottom up approach for the fabrication of nano electronic devices
+534,fadf53a2-4b57-4080-9006-8848016e5c4b,"['0301', '0304', '0306', '0501']",not specific,The neural basis of social cognition in health and neuropsychological disorders
+535,192e7031-32c3-49e2-8f3e-ba8930d58586,['0202'],European Commission,Optimization of QP steels designed for industrial applications
+536,6188568c-bcbf-42fb-bd4a-efcbbf676d51,"['0207', '0401']",not specific,Capturing the potential of gene editing for a sustainable bioeconomy
+537,364879df-76eb-412f-8cc4-e617e343c228,['0204'],Flemish Government,Crosslinked PVDF as a platform material for membrane separations in extreme conditions
+538,19b83ba3-263f-431b-ae34-c7657bb72d61,['0603'],Flemish Government,The phenomenological problem of matter 
+539,8750b342-9047-4c27-8337-05aa2fbdebeb,['0106'],Flemish Government,Development and validation of a bona fide iPSC derived human neuronal infection model to evaluate antivirals targeted against neurotropic viral infections 
+540,fb5ea6cd-195d-4020-b3fb-2d2b0e18f162,"['0301', '0304', '0306', '0106']",not specific,The role of the actin cytoskeleton in the regulation of the Hippo pathway
+541,370f7732-2ece-4ae4-9cf9-ef0a2ef2072d,['0103'],Research Foundation Flanders,A high performance tensor network library for classical and quantum many body physics
+542,2dcdd423-5505-472f-a3f4-bc469dc97d74,"['0502', '0401']",Research Foundation Flanders,The Role of Agricultural Trade and Trade Policy in Climate Change Mitigation and Adaptation
+543,7ec3356e-fe14-45d9-b456-9d56af85bd3c,['0503'],not specific,Enacting the potential of digital personalized learning
+544,1a7019e1-4eb6-498f-b615-98b9fa4e080e,"['0202', '0203']",Flemish Government,Novel Design Paradigms for Beyond CMOS Devices Modeling and Benchmarking of Spin based Technologies
+545,be2eeece-e370-4f0d-aa5d-16eb7e83fc85,"['0301', '0303', '0304', '0306', '0399']",Research Foundation Flanders,Physical activity in patients with respiratory disease and lung transplantation 
+546,f4adb4c0-288d-4bd2-9b01-f99e0d29d03c,"['0106', '0401']",not specific,Catching rhizobia to introduce high protein containing soybean for sustainable agriculture in Flanders SOY in Flanders
+547,3c1fb575-4098-4f49-ae6a-d923fa9fc2ec,['0106'],Flemish Government,Bead enabled capturing and fluorescent labeling to quantify direct respiratory virus microbiota interactions 
+548,1b730ee6-f18b-429c-8ef6-c21a8a9a96a3,['0502'],European Commission,Demonstrating lower polluting solutions for sustainable airports across Europe TULIPS 
+549,10a1fa37-8a30-4777-83ac-feeb2eb3f1ef,"['0101', '0401']",Flemish Government,Agrifood Industry 
+550,4af99560-17c4-4c20-9b3f-fa8e58cae8eb,"['0106', '0305']",Flemish Government,New and innovative antimicrobial solutions against microbial biofilms and fungal infections with applications in the medical and agrochemical domain
+551,e3d42770-d6a9-41b9-b17a-165ed663f5c3,['0501'],not specific, Agile careers for every talent
+552,dc789cdb-4500-4a59-a5a3-fb5e5a381f87,['0502'],Flemish Government, Work to work transitions Mobility from an institutional perspective bottlenecks barriers and opportunities of career instruments
+553,f49ef056-3b8f-4b70-8d61-f60b8940c3eb,['0502'],not specific, Careers in Modern Sociotechnical Organizations Phase 
+554,402cfb62-70dd-4258-87ef-f18a08619d83,['0502'],not specific, Scope Your Textile Skills
+555,0531bed3-2c8f-45bc-bd01-d9e75cc57935,"['0502', '0503']",not specific, Corporate Sustainable Intrapreneurship 
+556,4dfcab48-5440-4634-b362-22368817e4ea,['0502'],Research Foundation Flanders,Sustainable careers for project based an dual earner workers a stakeholders perspective
+557,272e36d1-14c8-45d9-938d-b8b7ceaaf0d4,"['0301', '0304']",Research Foundation Flanders,Novel anatomical and functional biomarkers of lung disease and therapeutic effects in preclinical rodent models
+558,9211651e-5518-46b5-bb3c-9a1cdc379d11,"['0201', '0604']",Flemish Government,Early Stage Design Support using Machine Learning and Building Information Modelling
+559,e61f98e9-8ac3-4bf7-84b1-cb41adf9fc61,['0505'],not specific,The Role of the Court of Justice in EU Labour Law A case study on the transfer of undertaking directive
+560,3e33f917-8333-465e-9003-9070a96a6739,['0306'],Research Foundation Flanders,Lipid peroxidation as a target to find innovative therapy for arterial media calcification pre clinical evaluation of novel membranous radical trapping molecules to halt this lethal disorder
+561,57ba536d-8aac-4458-870e-75b89f93fb21,"['0103', '0206', '0306']",not specific,Award Robert Oppenheimer 
+562,928a6ffc-40d2-4341-9ce6-b5e7cb8c211c,['0302'],Research Foundation Flanders,Targeted tolerance in multiple sclerosis development of transgenic T cell receptor engineered regulatory T cells recognizing myelin derived antigens 
+563,b4c8a740-8527-4e1a-9bf8-d00383227038,['0602'],Flemish Government,Women and the Short Story A Textual Comparative and Contextual Analysis of the Contribution of Women Writers to the Modern Short Story in English 
+564,ca9b1a8f-d9f6-4d4f-9303-dbb5a5c7a73e,['0504'],Flemish Government,Ethnic minority mobilization and nationalism in Central Europe
+565,8eeb8c1a-12c1-4328-a648-8241de2c4ea1,"['0401', '0299', '0201']",Flemish Government,Yellow for Geel paved farm becomes productive land
+566,a557f6dc-d184-438e-aab9-d2372f332ca7,"['0301', '0306']",Flemish Government,Protective potential of obesity against critical illness induced muscle wasting
+567,229c309e-0f17-421a-ad26-6f2d20e7a17b,['0103'],Flemish Government,State of the art spectroscopy of un physical gauge degrees of freedom using numerical experiments
+568,d627b5ba-ddca-4bbf-bb51-cf4b9c108be7,['0106'],Flemish Government,Crazy root disease determining the molecular mechanisms that underlie the interaction between tomato roots and rhizogenic agrobacteria
+569,c23c4841-7738-479e-83ee-e07f841d7133,['0205'],Research Foundation Flanders,Design of Application specific Hash Functions
+570,137ec808-ca58-48b8-98cd-941022806ad9,"['0301', '0106']",not specific,Somatic mosaicism in multiple sclerosis Detection and insights into disease
+571,d18a6988-618e-4e97-81ab-9205059e73ea,"['0106', '0107']",Research Foundation Flanders,Effects of evolution on metacommunity structure an experimental study on bacterioplankton
+572,e1c2df7f-290f-44b8-bcfe-e3bd979d4839,"['0501', '0301']",not specific,Variability in multistable apparent motion perception
+573,97da42ee-59f9-47aa-a85b-0d5d1802233a,['0303'],not specific,PRICOV study dissemination of the results on equity aspects of quality care and patient safety
+574,4f3d05e6-ec58-4841-b3c9-87252b503d00,['0103'],Flemish Government,Quantum solid state physics using scanning probe microscopes
+575,0fc4c43c-27e5-4092-aa07-97ba0ecfebcf,['0201'],Research Foundation Flanders,Quantification of real time kinetics of bitumenmicrostructure
+576,2a7261ca-6630-45a4-9d11-162218403613,['0101'],Research Foundation Flanders,Operadic approaches to deforming higher categories and prestacks
+577,dda23022-65e5-49c8-b944-41de172f9e0b,['0102'],Flemish Government,Research Programme Artificial Intelligence 
+578,b0c52f2e-f635-47d7-b7c6-2007ba1b7492,"['0106', '0301', '0306']",Flemish Government,Genetic and biochemical analysis of neural circuit formation 
+579,68ab1e5e-9df2-424c-aa7b-94c1ff634eab,"['0301', '0306']",Flemish Government,Biological characterisation of new molecular forms of chemotactic cytokines role in inflammation and cancer 
+580,a2d8df33-221d-4826-81eb-bc5eba0c51f8,['0301'],Flemish Government,Disturbed energy metabolism in critical illness role in organ failure and mortality underlying mechanisms and therapeutic perspectives 
+581,3c924809-5aad-4c24-8105-7d5bdc24c21e,"['0401', '0106']",Flemish Government,Ecology of foodborne pathogens
+582,63870ffb-4c0d-4432-a6d4-1ff24a0d4922,['0501'],Flemish Government,The role of experience and its statistics for cognitive representations in the brain 
+583,784f50dc-4e79-4fc0-b1a8-33615a711bf6,"['0604', '0601']",Flemish Government,Producing and marketing Antwerp and Brussels tapestries Toward a new macro understanding of Flemish tapestry 
+584,1aadf7c1-3d3e-45d7-80a5-84032c85b481,['0602'],Flemish Government,The interaction between information structure syntax and semantics a comparative linguistic and interdisciplinary analysis 
+585,2495c833-659a-408c-aa9a-78e49be57244,"['0603', '0601']",Flemish Government,Scrolls before the SectRe charting the Jewish Groups behind the Dead Sea Scrolls 
+586,148463a7-5a9b-472e-b69c-a53f1442b412,['0301'],Flemish Government,New Concepts for the Prevention and Treatment of Malaria Pathology 
+587,c6053a19-2dbb-4932-bf41-cd4b5e6821ad,['0603'],Flemish Government,Augustine and the Golden Age of Catholic Biblical Scholarship in Louvain 
+588,9ad10eb8-1902-4a85-b87e-5b822fd85e29,"['0302', '0304']",Flemish Government,The dynamic musculoskeletal profile an integrated framework for a safer and healthier exercising 
+589,17df295a-5f38-4c7d-ae2f-699ce7ac2324,['0104'],Flemish Government,Plasmonics based Energy Harvesting for Catalysis PLASMHACAT 
+590,b6a3191c-10f8-406a-91e7-bd26bc5317bf,['0103'],Flemish Government,Physical principles and predictions of a string theory based cosmology 
+591,ad4d88a4-7a57-4440-9023-4510d6f7db50,"['0504', '0507']",Flemish Government,Implications of the shifting gender balance in education for family formation and family dissolution in Europe
+592,5171403c-77d7-45df-81b9-ee0bfb1a83b7,"['0202', '0301']",Flemish Government,Interconnections between visual experience information processing and the brain
+593,a0cff952-6f2e-49a4-8be8-bf961f35bd88,"['0301', '0306', '0304', '0206']",Research Foundation Flanders,Biomechanics of brain contusions an injury criterion for developing safer headgear 
+594,d5d646c2-f79f-4461-81ec-f1b9f12c5770,"['0106', '0301']",Research Foundation Flanders,Functional analysis of the RNA helicase DHX in T cell acutelymphoblastic leukemia
+595,e05014cd-7515-46c0-831f-13e2d41bf4d3,"['0202', '0203']",Flemish Government,Modeling of Graphene for Interconnect Applications
+596,5dbbe00f-0606-409d-b17f-62263e8e57e6,['0106'],Flemish Government,Motion and Orientation Selectivity in the Mouse Superior Colliculus
+597,25ff2357-7e6b-4864-a014-22d3d8e083b8,['0508'],not specific,Always connected The context and consequences of mobile and social media use among preadolescents
+598,5bb3575b-129d-4167-b987-9d86fbdff590,['0508'],Flemish Government,Differential Information Seeking and Processing
+599,740705a8-2f35-4aef-b302-5b377d31a4de,['0502'],Flemish Government,Multinational Corporations in Unsettled Times
+600,eea867d5-a421-4d16-a397-3c839913d24d,"['0203', '0599']",Flemish Government,Analysis and control of uncertain and parameter varying linear systems advances with a view to mechatronic applications 
+601,43bc4293-0214-49a0-9828-5b58e03c629f,"['0203', '0299']",Flemish Government,Intensified reactor and separator systems based on external energy fields
+602,6108cf44-41bc-40de-886d-2dce77ca5432,['0107'],European Commission,Partnership for the Assessment of Risks from Chemicals PARC 
+603,a6cfc7cf-38e6-4688-bc0b-2e56cedb8e3b,"['0202', '0203']",not specific,The E Wall Concept Modular Antenna Systems for Indoor G NR Applications
+604,8c71ed4f-12ac-45e7-b4e1-4349fed3f88a,"['0603', '0602']",Flemish Government,Research of major lacunas in our knowledge of the early modern rhetorical tradition
+605,b943dc74-23a7-410d-847b-921e917db3b1,['0502'],Flemish Government,Finance and faith in the Western legal tradition
+606,cee67dfb-3dde-45db-8139-f84665f9bdf5,"['0302', '0306', '0106']",Flemish Government,Investigating the complexity of the human immune system using a high resolution immunophenotyping platform 
+607,54110972-1b34-4bfe-9fde-3cdbf043a15b,"['0106', '0306']",Research Foundation Flanders,Culture free approaches including whole genome sequencing in support of diagnostic and transmission studies on Mycobacterium leprae 
+608,8c1da266-5e78-40de-b7aa-31a8c86cdf5f,['0599'],European Commission,RESEARCH AND INNOVATION AGENDA WITH AND FOR SOCIETY Leveraging digital innovation for a greener and healthier Europe
+609,07a218af-2f4a-4d0b-8fbb-525052e42757,['0102'],Flemish Government,Analysis and transformation of programs 
+610,2be428b8-3a8b-4078-a2e2-feba0b64f029,"['0301', '0306', '0106']",Research Foundation Flanders,Mechanisms of ferroptosis mediated immunoregulation
+611,461dbdfb-00df-4902-9193-87b831700066,"['0206', '0301']",Research Foundation Flanders,Understanding human linkeropathies study of the phenotypic and molecular consequences of defective biosynthesis of the glycosaminoglycan tetrasaccharide linker region 
+612,2544cd28-6a6d-4e78-9e53-345d79919d51,['0107'],Research Foundation Flanders,EMBRC 
+613,1fcb6cd0-ae26-43d9-8bca-d46c44011b38,['0203'],not specific,Microstructural Analysis and Mechanical Behaviour of Bamboo Fibres and Bamboo Fibre Composites
+614,ebb805e5-17da-4ea9-93aa-c2df2b9562a6,['0504'],Flemish Government,BOF Sabbatical Ive Marx 
+615,e274002f-d1ad-4f12-8c7b-d0e030de03e5,['0504'],Federal Government,Basic Income in Belgium stress testing basic income in the digital era BABEL 
+616,e8355c08-e03d-40a0-a8ef-dedfacfc31f1,"['0502', '0504']",Research Foundation Flanders,A job offer you shouldn t refuse towards a better understanding of financial work incentives and welfare to work transitions
+617,2cca499c-11e8-4cc8-847c-b4f824e5d2f5,['0501'],not specific,The role of mentalizing in the development of children and adolescents at risk for psychopathology
+618,7d9c00f8-4f44-412a-8a6a-92f67ba2426d,['0501'],not specific,Too puzzled to progress Identity formation as a key developmental process and a central issue within personality pathology in community and clinical samples
+619,1bc009c2-5656-4ef1-aa6b-64a852cc6329,['0201'],not specific,Diagnosis assessment and durable restoration of protruding concrete balconies 
+620,81139d0c-a30f-4140-afa5-d8628023c405,"['0104', '0205']",not specific,Curing and nanostructure development in epoxy block copolymer blends
+621,4ca023af-f4d6-4f34-bff4-f4a9446b1dd9,"['0302', '0305', '0206', '0306']",Research Foundation Flanders,A zebrafish platform for genetic and chemical screening to improve diagnosis risk estimation and treatment of cardiovascular manifestations in Marfan syndrome 
+622,32afa7dd-39bd-42ac-8d93-393b4a7ba7f3,['0305'],Flemish Government,Universal antibody scaffolds with drug like features for straightforward mini domain grafting
+623,ec0b865e-48ba-4654-aa93-3cd9da6237ba,['0106'],Research Foundation Flanders,Functional structural analysis of Casein Kinase and SOG in response to Al induced DNA damage and phosphate starvation
+624,25e8c739-9e2f-49e0-bb16-0e91a96dad8b,['0106'],Research Foundation Flanders,Identification and characterization of novel key regulators of developmentally controlled programmed cell death in plants
+625,3694b8c4-9966-4e41-a183-8e9260099cf4,['0106'],Research Foundation Flanders,Mapping the evolutionary role of the ERF transcriptional activator in the process of wound induced regeneration
+626,3a3da3f2-57f1-40b9-bd63-a7861d280df8,['0202'],Flemish Government,Towards Reliable Land Cover Change Detection from Multi Sensor Data REALISE 
+627,fb616c61-78f0-4676-aa1f-cd90ebbbaf25,"['0303', '0302']",Flemish Government,Gerodent PLUS primary oral care for home dwelling elderly
+628,48ea3b2b-ea02-4651-8565-407a30858e75,"['0105', '0201']",Research Foundation Flanders,Mechanisms of rockmass instability in co mining of deep mineral and geothermal energy considering spatio temporal distribution of stress and temperature
+629,7dfa5ccb-c025-4825-8a90-0b7ff8f527bb,['0101'],Research Foundation Flanders,Recursion reflection and second order arithmetic
+630,aa69dea9-a9f0-4fa6-b484-eaaaf7b8e444,"['0208', '0201', '0101']",Flemish Government,Trafficmodels and general relativity
+631,9eba6c19-2e1e-45f7-991b-a4d9d9df61f3,"['0106', '0107']",Flemish Government,Forecasting dune development and its functioning as a nature based solutions for coastal protection
+632,7871ea52-7ca7-4e91-9f1b-c6ca53036e52,"['0501', '0602']",Research Foundation Flanders,Readers as statistical learners an individual differences approach
+633,4ab74c9a-d307-4441-ae20-e3cbedaaca79,"['0508', '0604', '0501']",European Commission,Digital Wellbeing in a Culture of Ubiquitous Connectivity Towards a Dynamic Pathway Model
+634,88ddb640-cca4-49f6-8ae8-150821401ac3,['0103'],Flemish Government,Cosmology and fundamental physics with gravitational wave observations
+635,a009c333-c57f-4498-b72e-87b467acda41,['0301'],Flemish Government,Origin and molecular drivers of T cell and dendritic cell development in the human thymus 
+636,8a76f697-c008-4021-8e88-1e79df7898b2,['0106'],Research Foundation Flanders,Dissection of the role and regulation of ABCB phosphorylation in root twisting and soil penetration
+637,b96b4d55-2c5f-4678-b2de-9f3d98fbba2a,['0104'],Flemish Government,Oxidant Free Gold Mediated C H Bond Functionalisation
+638,0fceeb30-f9e4-40a8-a1b0-96c2fa0d78ce,"['0105', '0107']",not specific,An innovative solution to protect Vietnamese coastal riverbanks from floods and erosion
+639,ac117a5a-8154-449e-8236-d736cff3bce6,['0201'],not specific,Circul Air Adaptable ventilation concepts for change oriented re construction 
+640,053b9ee3-aebc-4173-a8af-49327b7db9ab,"['0401', '0207', '0106']",Research Foundation Flanders,Developing transgene free genome engineered poplars to enabling field applications for the biobased economy 
+641,d50f7d7e-d190-4ea3-b0ac-13c6d94e09fb,['0201'],Flemish Government,The circular school ready for 
+642,e46b6dbc-2eb5-4ebd-8902-a30dc5051894,"['0103', '0104']",Research Foundation Flanders,Follow the charge using advanced optical and X ray spectroscopy to master charge transfer processes in phosphors
+643,c023ae72-8f0e-4709-a759-cebbaaaa09a9,['0106'],Flemish Government,Een kV transmissie Elektronenmicroscoop voor hoge resolutie vaststelling van Dultrastructure van inheems eiwitten cellen en weefsel
+644,32c1aed7-09d6-4682-99cf-0481b6a36d33,['0106'],Research Foundation Flanders,IDENTIFICATION OF TISSUE REGENERATION CONTROLLING ERF GRAS HETERODIMERIC TRANSCRIPTION FACTOR COMPLEXES AND THEIR SUBSTRATES
+645,d3947a3d-35c6-486c-87ed-add82b685f38,"['0203', '0205']",Flemish Government,Multi scale analysis of textile and derived materials
+646,7cef9283-53bc-4899-8a24-232e778fad8c,['0106'],Research Foundation Flanders,ELIXIR Infrastructure for Data and Services to strengthen Life Sciences Research in Flanders
+647,969739dc-2944-41ef-b89b-1968a7c0f7b2,"['0205', '0104', '0204', '0103']",Flanders Innovation & Entrepreneurship,ARCLATH II Moonshot Artificial clathrates for safe storage transport and delivery of hydrogen II
+648,692db4c9-f940-4953-b62b-afe3c5c78805,"['0301', '0106']",Flemish Government,Targeting the mevalonate pathway to treat inflammatory diseases
+649,4344367f-9365-48a8-b750-b68574a8ec96,"['0105', '0302', '0104']",Flemish Government,Investigating the role of Ca Cu Fe K Mg and Zn in resistance towards chemotherapeutic drugs using high precision isotopic analysis via MC ICP MS
+650,a179dd12-4f57-4dfe-a5f4-90220aa88927,['0604'],Flemish Government,Metamodels for Systems Engineering to Support Sustainable Building Design 
+651,ffa441ea-f87d-4194-8fe9-7ade807692c8,"['0107', '0106']",Flemish Government,Sustainability and governance of socio ecological systems in the st century Examining contemporary pathways leading to a more sustainable and just society 
+652,33124adb-f0ea-4f3a-9fb7-088282d0053c,"['0505', '0502']",Flemish Government,The tax treatment of interest and dividends under tax treaties from the perspective of law and economics
+653,a617baa1-fcd6-4b30-afa7-6c58ce761bbb,['0208'],Flemish Government,Distributed signal processing algorithms for wireless EEG sensor networks with applications in auditory based brain computer interfaces
+654,8fbd0212-dc19-4c0d-908d-581787ca0898,['0603'],Flemish Government,The significance scope and limits of mathematical knowledge
+655,58f340f7-8e48-43d4-97ae-2d0193a2faf8,['0503'],Flemish Government,The promotion of a physically active lifestyle through quality Physical Education 
+656,2e6d6de3-e7c5-46ac-a72d-f8ace85f1ccd,"['0303', '0102']",Flemish Government,Predictive clustering for structured biomedical data 
+657,3d325cbf-ee74-4df4-9169-148892a15ce2,"['0504', '0601']",Flemish Government,Prostitution in Belgium A Historical Geographical AnalysisCentury to the Present 
+658,0f878efb-a41c-4faa-96dd-8fce4409efd0,['0501'],Flemish Government,Shared leadership in sport teams
+659,a83d05e3-9674-487d-84ae-5eb3a923f2fc,['0201'],Flemish Government,Towards a relational approach of spatial planning social innovation and territorial development
+660,bc7de441-b923-45a8-9e66-04e2dc854216,['0103'],Flemish Government,Consistency of de Sitter vacua in string theory
+661,0e01cf3f-a376-40e6-85bf-b3bb19a6475d,"['0401', '0104', '0304']",Flemish Government,Food digestion as influenced by food structure the role of pectin food component interactions in plant based food systems
+662,426644ca-3ca8-45bc-b706-0b0ae2fc6515,['0505'],not specific,Protecting Victims of Disappearances Committed by Organised Criminal Groups State Responsibility in International Human Rights Law and the Experiences of Human Rights Practitioners in Mexico 
+663,365afe42-7a7e-4143-b2ba-72d267c695b0,['0504'],not specific,Soldiering the equipment or equipping the soldier Emergent Forms of Belgian Military Life Innovation Corporality and Technology A Comparative Ethnographic Study of the NATO Frigate Helicopter and the Pathfinder Detachment 
+664,cc792a88-9313-46a4-9894-05acaf4ab2a5,['0106'],Flemish Government,Neuromics Support Facility NSF 
+665,54c113ec-cd67-4c44-8b83-7fcd262af3d2,['0201'],Flemish Government,Assessing the energy thermal comfort and economic impact of Building Automation and Control Systems BACS Towards a reliable evaluation for new and retrofitted residential buildings
+666,33bd5a4a-d044-44c2-bd61-358f81666b89,"['0508', '0603', '0604', '0505', '0601']",Flemish Government,We are all Ayotzinapa The role of Digital Media in the Shaping of Transnational Memories on Disappearance
+667,2a221800-66ec-4b95-8ae5-091719ca94ec,"['0106', '0301', '0206', '0207']",Flemish Government,Computationally designed symmetric protein building blocks for synthetic biochemistry
+668,70bc0b31-884e-4d11-a895-a151569b1ff2,"['0301', '0304', '0306']",Flemish Government,Contributions of history dependent muscle action to stability and efficiency of whole body human movements
+669,eec5bab2-324a-47b3-b724-fbf4a6b45ad9,"['0301', '0306']",Flemish Government,A living tissue bank of patient derived cell lines from high grade brain cancer
+670,97ac1b57-1ad0-4557-886d-1285f2645b17,"['0301', '0306']",Flemish Government,Technology enabled resistance exercise interventions in patients with peripheral artery disease investigation of the feasibility and short term clinical effectiveness
+671,435f44f9-cee3-4063-a0b6-e1cc0e0a0e43,"['0301', '0306', '0501']",Flemish Government,The many faces of ATP A in regulating the pathophysiology of alpha synuclein
+672,b4f4c1a2-be49-46bd-9f88-fdc661250c11,"['0301', '0302']",Flemish Government,Can non invasive brain stimulation combined with oxytocin based pharmacotherapy enhance brain function in autism Investigating the neural and behavioral effects of two promising intervention approaches
+673,f75d3c3d-82b2-4f6b-ad35-7d6012de20db,"['0202', '0101', '0102']",Flemish Government,Newton type operator splitting methods for real time optimization of cyberphysical systems
+674,7b927018-598e-466b-b609-b7cccc4a4ac3,"['0101', '0103']",Flemish Government,Mass loss in the lives and deaths of massive stars
+675,0cc3628a-90c3-4671-a96a-d427cde6691f,['0306'],Research Foundation Flanders,Comprehensive characterization of structural variation andnucleotide modifications in neurodegeneration through longread sequencing and data integration 
+676,baab5500-e5a6-4992-a5ad-4a72613889a9,['0602'],Research Foundation Flanders,Al stories interactive narratives for hospitalised children 
+677,33ed43a6-49bb-499f-bdc1-723bf372b2d5,['0104'],Research Foundation Flanders,CHIral symmetry breaking from Surface to Bulk a multidisciplinary approach of the crystallization of achiral and chiral molecules CHISUB 
+678,29f796db-d995-4392-beea-51723a8dc51d,['0102'],Research Foundation Flanders,Low level object capabilities for formally watertight security 
+679,7d1ead49-9899-406d-8a14-96f382b71217,['0102'],Research Foundation Flanders,Actors you can trust a high level programming language abstraction for remote attestation and secure compilation
+680,410cd6cc-53e9-4d48-9a30-6afebc9d343c,"['0104', '0204', '0207', '0401']",Research Foundation Flanders,Valorization of airborne ammonia emissions of livestock farming by plasma enabled conversion to ammonium nitrate fertilizer 
+681,9f656250-24ac-4cb2-b29c-2d68063fadce,"['0301', '0302', '0303']",Research Foundation Flanders,Stopping the burden of disease caused by onchocerciasis associated epilepsy 
+682,3b8cb6c9-c39b-47e8-84fe-458633a6f40e,['0303'],not specific,The impact of intermittent preventive treatment strategies in reducing malaria and improving cognitive ability in school aged children a neglected control domain with an considerable develompent impact 
+683,cf5d5eab-aa82-4d01-beef-d1f892960a2e,['0504'],not specific,Energy and water poverty barometer with EU SILC Data 
+684,0503ee0d-da26-4895-af33-51729e2303f6,"['0301', '0305', '0306']",Research Foundation Flanders,Cell Death Regulation and Role in Infection and Inflammatory Diseases CD INFLADIS 
+685,fd7d321c-d7ee-417a-9813-4fcede1c12c7,"['0601', '0604']",Research Foundation Flanders,Screening multiple identities National subnational and transnational discourses in post war Belgian cinema 
+686,3d4d0879-5187-4e7f-ab2f-a24b41c8305e,"['0301', '0302']",Research Foundation Flanders,A multi omics approach to the detection of pathologic genetic and epigenetic lesions in Developmental and Epileptic Encephalopathies
+687,7b6df2f9-305a-46e8-bb78-edf8623cba65,['0301'],Flemish Government,Advanced Centre for Advanced Microscopy ACAM 
+688,ae028d8c-2010-42e7-b187-39134b466d8a,"['0202', '0203']",not specific,Microwave Microfluidic Technology Development for Life Science Applications
+689,0a1e5807-ae3b-4916-8d9e-f2c799305308,"['0301', '0306', '0305']",Research Foundation Flanders,Effect of microbial metabolites in the restoration of gut health after chronodisruption of the circadian clock by high fat diet and jet lag
+690,3f931ed7-3ecc-4a8f-a8ca-ececd178700e,"['0201', '0102', '0299']",Research Foundation Flanders,Architecture VR project temporary 
+691,416a850f-451a-436d-805b-4253bd67aeb8,['0205'],not specific, D Printing of Monolithic Zirconia Ceramics for Dental Restorations
+692,e2e684a7-cb4c-4e9a-abb7-4415627c8cc3,"['0101', '0102', '0202', '0206', '0208', '0203']",Research Foundation Flanders,Supporting Pregnancy Care Based on Heterogeneous and Longitudinal Data Analysis
+693,5bd71885-5d1a-4fc0-a669-760a25b2f519,['0602'],Flemish Government,BOF Expatriation allowance VLIR Scientific Chair Breughel 
+694,cf94305a-4708-46fd-8e3a-4fbbc2d1fea2,"['0104', '0103', '0205', '0305']",Flemish Government,Graphene Metal Contact Engineering and Graphene Interconnects
+695,754fe1fc-d735-4ae4-8a2a-73cd46bcb7fa,"['0101', '0102', '0202', '0206', '0208', '0203']",not specific,In Search of Meaning Thinking Information Visualization within Art History Research
+696,9f03808f-39f3-49a1-8e10-084918090e9b,['0106'],Research Foundation Flanders,Identifying compensatory mutations in XDR Mtb strains understanding the dynamics and mechanisms of transmission
+697,699f4722-def2-4f30-8ad2-8875c0d9323d,['0508'],European Commission,European Cinema Audiences Entangled Histories and Shared Memories
+698,6225d03b-e000-4ba2-abd8-932853c68840,"['0505', '0208']",Research Foundation Flanders,Privacy Rating for Online Games Feasibility of a Rights based Risk Evaluation System PROGRRES 
+699,3bbfce47-bf8f-4704-9ad7-7fd7416b01c6,"['0106', '0401']",not specific,SoleDNA Characterising a data poor sole stock using DNA and eDNA
+700,7ad55215-a9eb-4ce6-8561-78ace7f98518,"['0104', '0304', '0401']",Research Foundation Flanders,Computational design and engineering of fluid flow in D printed microfluidic lab on chips
+701,3b8dc825-d15c-498c-8737-1c8ce57722c7,"['0301', '0106']",Research Foundation Flanders,Heterotypic amyloid interactions as modulators of selective cellular vulnerability
+702,82ea3b35-6874-4e86-9363-e7cd707710b4,['0102'],Research Foundation Flanders,A principled approach to cross layer software and hardware design for security
+703,7162707d-c6d4-4cc6-9a2f-fe0e8ccbafa6,"['0301', '0106']",Research Foundation Flanders,Bcl IP R channel structural dynamics underlying complex formation function and disease BInamics 
